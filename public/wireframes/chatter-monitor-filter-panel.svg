@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="800" height="600" viewBox="0 0 800 600" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="800" height="600" fill="#f8f9fa" />
+  
+  <!-- Panel Header -->
+  <rect x="20" y="20" width="760" height="60" rx="8" fill="#ffffff" stroke="#e2e8f0" stroke-width="1" />
+  <text x="40" y="55" font-family="Arial" font-size="18" font-weight="bold" fill="#1e293b">Filter Mentions</text>
+  <text x="700" y="55" font-family="Arial" font-size="14" fill="#64748b">Clear All</text>
+  
+  <!-- Source Filter Section -->
+  <rect x="20" y="100" width="760" height="120" rx="8" fill="#ffffff" stroke="#e2e8f0" stroke-width="1" />
+  <text x="40" y="130" font-family="Arial" font-size="16" font-weight="bold" fill="#1e293b">Source</text>
+  
+  <!-- Source Filter Buttons -->
+  <rect x="40" y="145" width="100" height="40" rx="20" fill="#3b82f6" />
+  <text x="90" y="170" font-family="Arial" font-size="14" fill="#ffffff" text-anchor="middle">Twitter</text>
+  
+  <rect x="150" y="145" width="100" height="40" rx="20" fill="#ffffff" stroke="#cbd5e1" stroke-width="1" />
+  <text x="200" y="170" font-family="Arial" font-size="14" fill="#64748b" text-anchor="middle">Reddit</text>
+  
+  <rect x="260" y="145" width="100" height="40" rx="20" fill="#ffffff" stroke="#cbd5e1" stroke-width="1" />
+  <text x="310" y="170" font-family="Arial" font-size="14" fill="#64748b" text-anchor="middle">News</text>
+  
+  <rect x="370" y="145" width="100" height="40" rx="20" fill="#3b82f6" />
+  <text x="420" y="170" font-family="Arial" font-size="14" fill="#ffffff" text-anchor="middle">LinkedIn</text>
+  
+  <rect x="480" y="145" width="100" height="40" rx="20" fill="#ffffff" stroke="#cbd5e1" stroke-width="1" />
+  <text x="530" y="170" font-family="Arial" font-size="14" fill="#64748b" text-anchor="middle">Facebook</text>
+  
+  <rect x="590" y="145" width="100" height="40" rx="20" fill="#ffffff" stroke="#cbd5e1" stroke-width="1" />
+  <text x="640" y="170" font-family="Arial" font-size="14" fill="#64748b" text-anchor="middle">YouTube</text>
+  
+  <!-- Sentiment Filter Section -->
+  <rect x="20" y="240" width="760" height="120" rx="8" fill="#ffffff" stroke="#e2e8f0" stroke-width="1" />
+  <text x="40" y="270" font-family="Arial" font-size="16" font-weight="bold" fill="#1e293b">Sentiment</text>
+  
+  <!-- Sentiment Filter Buttons -->
+  <rect x="40" y="285" width="120" height="40" rx="20" fill="#ffffff" stroke="#cbd5e1" stroke-width="1" />
+  <text x="100" y="310" font-family="Arial" font-size="14" fill="#64748b" text-anchor="middle">Positive</text>
+  <circle cx="60" cy="305" r="8" fill="#10b981" />
+  
+  <rect x="170" y="285" width="120" height="40" rx="20" fill="#3b82f6" />
+  <text x="230" y="310" font-family="Arial" font-size="14" fill="#ffffff" text-anchor="middle">Neutral</text>
+  <circle cx="190" cy="305" r="8" fill="#ffffff" />
+  
+  <rect x="300" y="285" width="120" height="40" rx="20" fill="#ffffff" stroke="#cbd5e1" stroke-width="1" />
+  <text x="360" y="310" font-family="Arial" font-size="14" fill="#64748b" text-anchor="middle">Negative</text>
+  <circle cx="320" cy="305" r="8" fill="#ef4444" />
+  
+  <!-- Date Range Filter Section -->
+  <rect x="20" y="380" width="760" height="120" rx="8" fill="#ffffff" stroke="#e2e8f0" stroke-width="1" />
+  <text x="40" y="410" font-family="Arial" font-size="16" font-weight="bold" fill="#1e293b">Date Range</text>
+  
+  <!-- Date Range Inputs -->
+  <rect x="40" y="425" width="200" height="40" rx="4" fill="#ffffff" stroke="#cbd5e1" stroke-width="1" />
+  <text x="60" y="450" font-family="Arial" font-size="14" fill="#64748b">Start Date: 2023-10-01</text>
+  
+  <rect x="260" y="425" width="200" height="40" rx="4" fill="#ffffff" stroke="#cbd5e1" stroke-width="1" />
+  <text x="280" y="450" font-family="Arial" font-size="14" fill="#64748b">End Date: 2023-10-15</text>
+  
+  <!-- Preset Date Ranges -->
+  <rect x="480" y="425" width="100" height="40" rx="20" fill="#3b82f6" />
+  <text x="530" y="450" font-family="Arial" font-size="14" fill="#ffffff" text-anchor="middle">Last Week</text>
+  
+  <rect x="590" y="425" width="100" height="40" rx="20" fill="#ffffff" stroke="#cbd5e1" stroke-width="1" />
+  <text x="640" y="450" font-family="Arial" font-size="14" fill="#64748b" text-anchor="middle">Last Month</text>
+  
+  <!-- Keyword Search Section -->
+  <rect x="20" y="520" width="760" height="60" rx="8" fill="#ffffff" stroke="#e2e8f0" stroke-width="1" />
+  <rect x="40" y="530" width="600" height="40" rx="4" fill="#ffffff" stroke="#cbd5e1" stroke-width="1" />
+  <text x="60" y="555" font-family="Arial" font-size="14" fill="#94a3b8">Search keywords...</text>
+  <rect x="660" y="530" width="100" height="40" rx="4" fill="#3b82f6" />
+  <text x="710" y="555" font-family="Arial" font-size="14" fill="#ffffff" text-anchor="middle">Search</text>
+</svg>
