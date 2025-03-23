@@ -1,0 +1,126 @@
+<svg width="1280" height="800" viewBox="0 0 1280 800" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="1280" height="800" fill="#F9FAFB"/>
+  
+  <!-- Sidebar Navigation -->
+  <rect x="0" y="0" width="240" height="800" fill="#FFFFFF" stroke="#E5E7EB" stroke-width="1"/>
+  
+  <!-- Sidebar Logo -->
+  <rect x="24" y="24" width="192" height="40" rx="4" fill="#1E40AF" opacity="0.1"/>
+  <text x="70" y="48" font-family="Inter, sans-serif" font-size="18" font-weight="600" fill="#1E40AF">DIOLOG</text>
+  
+  <!-- Sidebar Menu Items -->
+  <rect x="24" y="88" width="192" height="40" rx="4" fill="#F9FAFB"/>
+  <text x="64" y="112" font-family="Inter, sans-serif" font-size="14" fill="#6B7280">Dashboard</text>
+  <circle cx="40" cy="108" r="8" fill="#6B7280" opacity="0.5"/>
+  
+  <rect x="24" y="136" width="192" height="40" rx="4" fill="#F9FAFB"/>
+  <text x="64" y="160" font-family="Inter, sans-serif" font-size="14" fill="#6B7280">Calendar/Events</text>
+  <circle cx="40" cy="156" r="8" fill="#6B7280" opacity="0.5"/>
+  
+  <rect x="24" y="184" width="192" height="40" rx="4" fill="#F9FAFB"/>
+  <text x="64" y="208" font-family="Inter, sans-serif" font-size="14" fill="#6B7280">Announcements</text>
+  <circle cx="40" cy="204" r="8" fill="#6B7280" opacity="0.5"/>
+  
+  <rect x="24" y="232" width="192" height="40" rx="4" fill="#F9FAFB"/>
+  <text x="64" y="256" font-family="Inter, sans-serif" font-size="14" fill="#6B7280">Questions Board</text>
+  <circle cx="40" cy="252" r="8" fill="#6B7280" opacity="0.5"/>
+  
+  <rect x="24" y="280" width="192" height="40" rx="4" fill="#F9FAFB"/>
+  <text x="64" y="304" font-family="Inter, sans-serif" font-size="14" fill="#6B7280">Our FAQs</text>
+  <circle cx="40" cy="300" r="8" fill="#6B7280" opacity="0.5"/>
+  
+  <rect x="24" y="328" width="192" height="40" rx="4" fill="#F9FAFB"/>
+  <text x="64" y="352" font-family="Inter, sans-serif" font-size="14" fill="#6B7280">My Team</text>
+  <circle cx="40" cy="348" r="8" fill="#6B7280" opacity="0.5"/>
+  
+  <rect x="24" y="376" width="192" height="40" rx="4" fill="#F9FAFB"/>
+  <text x="64" y="400" font-family="Inter, sans-serif" font-size="14" fill="#6B7280">Question Registry</text>
+  <circle cx="40" cy="396" r="8" fill="#6B7280" opacity="0.5"/>
+  
+  <rect x="24" y="424" width="192" height="40" rx="4" fill="#F9FAFB"/>
+  <text x="64" y="448" font-family="Inter, sans-serif" font-size="14" fill="#6B7280">Company Settings</text>
+  <circle cx="40" cy="444" r="8" fill="#6B7280" opacity="0.5"/>
+  
+  <rect x="24" y="472" width="192" height="40" rx="4" fill="#F9FAFB"/>
+  <text x="64" y="496" font-family="Inter, sans-serif" font-size="14" fill="#6B7280">Profile Settings</text>
+  <circle cx="40" cy="492" r="8" fill="#6B7280" opacity="0.5"/>
+  
+  <rect x="24" y="520" width="192" height="40" rx="4" fill="#1E40AF" opacity="0.1"/>
+  <text x="64" y="544" font-family="Inter, sans-serif" font-size="14" font-weight="600" fill="#1E40AF">Give Feedback</text>
+  <circle cx="40" cy="540" r="8" fill="#1E40AF"/>
+  
+  <rect x="24" y="568" width="192" height="40" rx="4" fill="#F9FAFB"/>
+  <text x="64" y="592" font-family="Inter, sans-serif" font-size="14" fill="#6B7280">Contact Us</text>
+  <circle cx="40" cy="588" r="8" fill="#6B7280" opacity="0.5"/>
+  
+  <!-- Header -->
+  <rect x="240" y="0" width="1040" height="64" fill="#FFFFFF" stroke="#E5E7EB" stroke-width="1"/>
+  
+  <!-- Header Title -->
+  <text x="280" y="40" font-family="Inter, sans-serif" font-size="20" font-weight="600" fill="#1F2937">Give Feedback</text>
+  
+  <!-- User Profile -->
+  <circle cx="1200" cy="32" r="20" fill="#1E40AF" opacity="0.1"/>
+  <text x="1200" y="36" font-family="Inter, sans-serif" font-size="12" font-weight="600" fill="#1E40AF" text-anchor="middle">JD</text>
+  
+  <!-- Main Content Area -->
+  <rect x="280" y="104" width="960" height="656" rx="8" fill="#FFFFFF" stroke="#E5E7EB" stroke-width="1"/>
+  
+  <!-- Feedback Form Title -->
+  <text x="320" y="144" font-family="Inter, sans-serif" font-size="18" font-weight="600" fill="#1F2937">Submit Your Feedback</text>
+  <text x="320" y="172" font-family="Inter, sans-serif" font-size="14" fill="#6B7280">We value your input to help us improve the Diolog platform.</text>
+  
+  <!-- Name Field (Optional) -->
+  <text x="320" y="220" font-family="Inter, sans-serif" font-size="14" font-weight="500" fill="#1F2937">Name (Optional)</text>
+  <rect x="320" y="232" width="400" height="40" rx="4" fill="#FFFFFF" stroke="#E5E7EB" stroke-width="1"/>
+  
+  <!-- Reason for Feedback Dropdown -->
+  <text x="320" y="300" font-family="Inter, sans-serif" font-size="14" font-weight="500" fill="#1F2937">Reason for Feedback *</text>
+  <rect x="320" y="312" width="400" height="40" rx="4" fill="#FFFFFF" stroke="#E5E7EB" stroke-width="1"/>
+  <text x="336" y="336" font-family="Inter, sans-serif" font-size="14" fill="#6B7280">Select a reason</text>
+  <path d="M700 332 L690 322 L680 332" stroke="#6B7280" stroke-width="2" fill="none"/>
+  
+  <!-- Dropdown Options (shown as if dropdown is open) -->
+  <rect x="320" y="352" width="400" height="160" rx="4" fill="#FFFFFF" stroke="#E5E7EB" stroke-width="1" opacity="0.9"/>
+  <rect x="320" y="352" width="400" height="40" rx="0" fill="#F9FAFB"/>
+  <text x="336" y="376" font-family="Inter, sans-serif" font-size="14" fill="#1F2937">Bug Report</text>
+  
+  <text x="336" y="416" font-family="Inter, sans-serif" font-size="14" fill="#1F2937">Feature Request</text>
+  
+  <text x="336" y="456" font-family="Inter, sans-serif" font-size="14" fill="#1F2937">General Feedback</text>
+  
+  <text x="336" y="496" font-family="Inter, sans-serif" font-size="14" fill="#1F2937">Usability Issue</text>
+  
+  <!-- Description Text Area -->
+  <text x="320" y="540" font-family="Inter, sans-serif" font-size="14" font-weight="500" fill="#1F2937">Description *</text>
+  <rect x="320" y="552" width="600" height="120" rx="4" fill="#FFFFFF" stroke="#E5E7EB" stroke-width="1"/>
+  <text x="336" y="576" font-family="Inter, sans-serif" font-size="14" fill="#6B7280">Please describe your feedback in detail...</text>
+  
+  <!-- Attachment Upload -->
+  <text x="320" y="700" font-family="Inter, sans-serif" font-size="14" font-weight="500" fill="#1F2937">Attachment (Optional)</text>
+  <rect x="320" y="712" width="400" height="40" rx="4" fill="#FFFFFF" stroke="#E5E7EB" stroke-width="1" stroke-dasharray="4 2"/>
+  <text x="360" y="736" font-family="Inter, sans-serif" font-size="14" fill="#6B7280">Choose file or drag and drop</text>
+  <circle cx="340" cy="732" r="8" stroke="#6B7280" stroke-width="1.5" fill="none"/>
+  <path d="M340 728 L340 736 M336 732 L344 732" stroke="#6B7280" stroke-width="1.5"/>
+  
+  <!-- Submit and Cancel Buttons -->
+  <rect x="320" y="780" width="120" height="40" rx="4" fill="#1E40AF"/>
+  <text x="380" y="804" font-family="Inter, sans-serif" font-size="14" font-weight="500" fill="#FFFFFF" text-anchor="middle">Submit</text>
+  
+  <rect x="450" y="780" width="120" height="40" rx="4" fill="#FFFFFF" stroke="#E5E7EB" stroke-width="1"/>
+  <text x="510" y="804" font-family="Inter, sans-serif" font-size="14" font-weight="500" fill="#6B7280" text-anchor="middle">Cancel</text>
+  
+  <!-- Confirmation Message (Initially Hidden, shown after submission) -->
+  <rect x="760" y="232" width="400" height="160" rx="8" fill="#FFFFFF" stroke="#E5E7EB" stroke-width="1" opacity="0.95"/>
+  <rect x="760" y="232" width="400" height="48" rx="8 8 0 0" fill="#10B981" opacity="0.1"/>
+  <circle cx="800" cy="256" r="16" fill="#10B981" opacity="0.2"/>
+  <path d="M794 256 L798 260 L806 252" stroke="#10B981" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="824" y="260" font-family="Inter, sans-serif" font-size="16" font-weight="600" fill="#10B981">Thank You!</text>
+  
+  <text x="780" y="300" font-family="Inter, sans-serif" font-size="14" fill="#1F2937">Your feedback has been submitted successfully.</text>
+  <text x="780" y="324" font-family="Inter, sans-serif" font-size="14" fill="#1F2937">We appreciate your input and will review it shortly.</text>
+  
+  <rect x="900" y="352" width="120" height="32" rx="4" fill="#1E40AF"/>
+  <text x="960" y="372" font-family="Inter, sans-serif" font-size="14" font-weight="500" fill="#FFFFFF" text-anchor="middle">Close</text>
+</svg>

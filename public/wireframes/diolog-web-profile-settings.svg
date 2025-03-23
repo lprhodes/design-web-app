@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1200" height="900" viewBox="0 0 1200 900" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="1200" height="900" fill="#F9FAFB"/>
+  
+  <!-- Sidebar Navigation -->
+  <rect x="0" y="0" width="240" height="900" fill="#1E40AF"/>
+  
+  <!-- Sidebar Logo -->
+  <rect x="20" y="20" width="200" height="40" rx="4" fill="#FFFFFF" opacity="0.9"/>
+  <text x="120" y="45" font-family="Inter, sans-serif" font-size="18" font-weight="bold" fill="#1E40AF" text-anchor="middle">DIOLOG</text>
+  
+  <!-- Sidebar Menu Items -->
+  <rect x="20" y="100" width="200" height="40" rx="4" fill="#3B82F6" opacity="0.2"/>
+  <text x="60" y="125" font-family="Inter, sans-serif" font-size="14" fill="#FFFFFF">Dashboard</text>
+  
+  <rect x="20" y="150" width="200" height="40" rx="4" fill="transparent"/>
+  <text x="60" y="175" font-family="Inter, sans-serif" font-size="14" fill="#FFFFFF">Calendar/Events</text>
+  
+  <rect x="20" y="200" width="200" height="40" rx="4" fill="transparent"/>
+  <text x="60" y="225" font-family="Inter, sans-serif" font-size="14" fill="#FFFFFF">Announcements</text>
+  
+  <rect x="20" y="250" width="200" height="40" rx="4" fill="transparent"/>
+  <text x="60" y="275" font-family="Inter, sans-serif" font-size="14" fill="#FFFFFF">Questions Board</text>
+  <circle cx="200" y="275" r="10" fill="#F59E0B"/>
+  <text x="200" y="279" font-family="Inter, sans-serif" font-size="12" font-weight="bold" fill="#FFFFFF" text-anchor="middle">5</text>
+  
+  <rect x="20" y="300" width="200" height="40" rx="4" fill="transparent"/>
+  <text x="60" y="325" font-family="Inter, sans-serif" font-size="14" fill="#FFFFFF">Our FAQs</text>
+  
+  <rect x="20" y="350" width="200" height="40" rx="4" fill="transparent"/>
+  <text x="60" y="375" font-family="Inter, sans-serif" font-size="14" fill="#FFFFFF">My Team</text>
+  
+  <rect x="20" y="400" width="200" height="40" rx="4" fill="transparent"/>
+  <text x="60" y="425" font-family="Inter, sans-serif" font-size="14" fill="#FFFFFF">Question Registry</text>
+  
+  <rect x="20" y="450" width="200" height="40" rx="4" fill="#FFFFFF" opacity="0.2"/>
+  <text x="60" y="475" font-family="Inter, sans-serif" font-size="14" font-weight="bold" fill="#FFFFFF">Profile Settings</text>
+  
+  <rect x="20" y="500" width="200" height="40" rx="4" fill="transparent"/>
+  <text x="60" y="525" font-family="Inter, sans-serif" font-size="14" fill="#FFFFFF">Company Settings</text>
+  
+  <!-- Upgrade CTA -->
+  <rect x="20" y="800" width="200" height="50" rx="8" fill="#F59E0B"/>
+  <text x="120" y="830" font-family="Inter, sans-serif" font-size="14" font-weight="bold" fill="#FFFFFF" text-anchor="middle">Upgrade to Premium</text>
+  
+  <!-- Top Header -->
+  <rect x="240" y="0" width="960" height="64" fill="#FFFFFF" stroke="#E5E7EB" stroke-width="1"/>
+  
+  <!-- Company Profile Dropdown -->
+  <rect x="260" y="16" width="200" height="32" rx="16" fill="#F9FAFB"/>
+  <circle cx="276" cy="32" r="12" fill="#3B82F6"/>
+  <text x="296" y="36" font-family="Inter, sans-serif" font-size="14" fill="#1F2937">Acme Corporation</text>
+  <text x="440" y="36" font-family="Inter, sans-serif" font-size="14" fill="#6B7280">▼</text>
+  
+  <!-- Action Buttons -->
+  <rect x="600" y="16" width="120" height="32" rx="16" fill="#3B82F6"/>
+  <text x="660" y="36" font-family="Inter, sans-serif" font-size="14" font-weight="bold" fill="#FFFFFF" text-anchor="middle">Create Event</text>
+  
+  <rect x="730" y="16" width="180" height="32" rx="16" fill="#3B82F6"/>
+  <text x="820" y="36" font-family="Inter, sans-serif" font-size="14" font-weight="bold" fill="#FFFFFF" text-anchor="middle">Compose Announcement</text>
+  
+  <!-- Notification Icon -->
+  <circle cx="1100" cy="32" r="16" fill="#F9FAFB"/>
+  <text x="1100" y="37" font-family="Inter, sans-serif" font-size="16" fill="#1F2937" text-anchor="middle">🔔</text>
+  
+  <!-- User Profile Dropdown -->
+  <circle cx="1150" cy="32" r="16" fill="#3B82F6"/>
+  <text x="1150" y="37" font-family="Inter, sans-serif" font-size="14" font-weight="bold" fill="#FFFFFF" text-anchor="middle">JS</text>
+  
+  <!-- Main Content Area -->
+  <rect x="280" y="104" width="880" height="60" rx="8" fill="#FFFFFF" stroke="#E5E7EB" stroke-width="1"/>
+  <text x="320" y="140" font-family="Inter, sans-serif" font-size="24" font-weight="bold" fill="#1F2937">Profile Settings</text>
+  <text x="320" y="170" font-family="Inter, sans-serif" font-size="14" fill="#6B7280">Manage your personal information and account settings</text>
+  
+  <!-- Profile Information Card -->
+  <rect x="280" y="184" width="880" height="300" rx="8" fill="#FFFFFF" stroke="#E5E7EB" stroke-width="1"/>
+  
+  <!-- Profile Image Section -->
+  <circle cx="380" cy="284" r="80" fill="#F9FAFB" stroke="#E5E7EB" stroke-width="2"/>
+  <text x="380" y="284" font-family="Inter, sans-serif" font-size="36" font-weight="bold" fill="#3B82F6" text-anchor="middle">JS</text>
+  
+  <rect x="340" y="384" width="80" height="32" rx="16" fill="#3B82F6"/>
+  <text x="380" y="404" font-family="Inter, sans-serif" font-size="12" font-weight="bold" fill="#FFFFFF" text-anchor="middle">Upload</text>
+  
+  <rect x="430" y="384" width="80" height="32" rx="16" fill="#F9FAFB" stroke="#E5E7EB" stroke-width="1"/>
+  <text x="470" y="404" font-family="Inter, sans-serif" font-size="12" fill="#1F2937" text-anchor="middle">Remove</text>
+  
+  <text x="380" y="434" font-family="Inter, sans-serif" font-size="12" fill="#6B7280" text-anchor="middle">JPEG, PNG, GIF (Max 5MB)</text>
+  
+  <!-- Profile Information -->
+  <text x="520" y="224" font-family="Inter, sans-serif" font-size="18" font-weight="bold" fill="#1F2937">Profile Information</text>
+  
+  <text x="520" y="264" font-family="Inter, sans-serif" font-size="14" font-weight="semibold" fill="#6B7280">Name</text>
+  <text x="520" y="284" font-family="Inter, sans-serif" font-size="16" fill="#1F2937">John Smith</text>
+  
+  <text x="520" y="324" font-family="Inter, sans-serif" font-size="14" font-weight="semibold" fill="#6B7280">Email</text>
+  <text x="520" y="344" font-family="Inter, sans-serif" font-size="16" fill="#1F2937">john.smith@acmecorp.com</text>
+  
+  <text x="520" y="384" font-family="Inter, sans-serif" font-size="14" font-weight="semibold" fill="#6B7280">Phone</text>
+  <text x="520" y="404" font-family="Inter, sans-serif" font-size="16" fill="#1F2937">+1 (555) 123-4567</text>
+  
+  <text x="720" y="264" font-family="Inter, sans-serif" font-size="14" font-weight="semibold" fill="#6B7280">Job Title</text>
+  <text x="720" y="284" font-family="Inter, sans-serif" font-size="16" fill="#1F2937">Investor Relations Manager</text>
+  
+  <rect x="1000" y="224" width="120" height="40" rx="8" fill="#3B82F6"/>
+  <text x="1060" y="248" font-family="Inter, sans-serif" font-size="14" font-weight="bold" fill="#FFFFFF" text-anchor="middle">Edit Profile</text>
+  
+  <!-- Edit Profile Form (Hidden by default, shown when Edit Profile is clicked) -->
+  <rect x="280" y="504" width="880" height="360" rx="8" fill="#FFFFFF" stroke="#E5E7EB" stroke-width="1" opacity="0.5"/>
+  <text x="320" y="544" font-family="Inter, sans-serif" font-size="18" font-weight="bold" fill="#1F2937" opacity="0.5">Edit Profile</text>
+  
+  <text x="320" y="584" font-family="Inter, sans-serif" font-size="14" font-weight="semibold" fill="#6B7280" opacity="0.5">First Name *</text>
+  <rect x="320" y="594" width="400" height="40" rx="4" fill="#FFFFFF" stroke="#E5E7EB" stroke-width="1" opacity="0.5"/>
+  <text x="340" y="618" font-family="Inter, sans-serif" font-size="14" fill="#1F2937" opacity="0.5">John</text>
+  
+  <text x="320" y="654" font-family="Inter, sans-serif" font-size="14" font-weight="semibold" fill="#6B7280" opacity="0.5">Last Name *</text>
+  <rect x="320" y="664" width="400" height="40" rx="4" fill="#FFFFFF" stroke="#E5E7EB" stroke-width="1" opacity="0.5"/>
+  <text x="340" y="688" font-family="Inter, sans-serif" font-size="14" fill="#1F2937" opacity="0.5">Smith</text>
+  
+  <text x="320" y="724" font-family="Inter, sans-serif" font-size="14" font-weight="semibold" fill="#6B7280" opacity="0.5">Phone Number</text>
+  <rect x="320" y="734" width="400" height="40" rx="4" fill="#FFFFFF" stroke="#E5E7EB" stroke-width="1" opacity="0.5"/>
+  <text x="340" y="758" font-family="Inter, sans-serif" font-size="14" fill="#1F2937" opacity="0.5">+1 (555) 123-4567</text>
+  
+  <text x="740" y="584" font-family="Inter, sans-serif" font-size="14" font-weight="semibold" fill="#6B7280" opacity="0.5">Job Title</text>
+  <rect x="740" y="594" width="400" height="40" rx="4" fill="#FFFFFF" stroke="#E5E7EB" stroke-width="1" opacity="0.5"/>
+  <text x="760" y="618" font-family="Inter, sans-serif" font-size="14" fill="#1F2937" opacity="0.5">Investor Relations Manager</text>
+  
+  <rect x="320" y="794" width="120" height="40" rx="8" fill="#3B82F6" opacity="0.5"/>
+  <text x="380" y="818" font-family="Inter, sans-serif" font-size="14" font-weight="bold" fill="#FFFFFF" text-anchor="middle" opacity="0.5">Save Changes</text>
+  
+  <rect x="450" y="794" width="100" height="40" rx="8" fill="#FFFFFF" stroke="#E5E7EB" stroke-width="1" opacity="0.5"/>
+  <text x="500" y="818" font-family="Inter, sans-serif" font-size="14" fill="#1F2937" text-anchor="middle" opacity="0.5">Cancel</text>
+  
+  <!-- Password Reset Section -->
+  <rect x="280" y="504" width="880" height="300" rx="8" fill="#FFFFFF" stroke="#E5E7EB" stroke-width="1"/>
+  <text x="320" y="544" font-family="Inter, sans-serif" font-size="18" font-weight="bold" fill="#1F2937">Change Password</text>
+  
+  <text x="320" y="584" font-family="Inter, sans-serif" font-size="14" font-weight="semibold" fill="#6B7280">Current Password *</text>
+  <rect x="320" y="594" width="400" height="40" rx="4" fill="#FFFFFF" stroke="#E5E7EB" stroke-width="1"/>
+  <text x="340" y="618" font-family="Inter, sans-serif" font-size="14" fill="#1F2937">••••••••</text>
+  
+  <text x="320" y="654" font-family="Inter, sans-serif" font-size="14" font-weight="semibold" fill="#6B7280">New Password *</text>
+  <rect x="320" y="664" width="400" height="40" rx="4" fill="#FFFFFF" stroke="#E5E7EB" stroke-width="1"/>
+  <text x="340" y="688" font-family="Inter, sans-serif" font-size="14" fill="#1F2937">••••••••••</text>
+  
+  <!-- Password Strength Indicator -->
+  <rect x="320" y="714" width="400" height="6" rx="3" fill="#E5E7EB"/>
+  <rect x="320" y="714" width="300" height="6" rx="3" fill="#10B981"/>
+  <text x="630" y="724" font-family="Inter, sans-serif" font-size="12" fill="#10B981">Strong</text>
+  
+  <text x="320" y="754" font-family="Inter, sans-serif" font-size="14" font-weight="semibold" fill="#6B7280">Confirm New Password *</text>
+  <rect x="320" y="764" width="400" height="40" rx="4" fill="#FFFFFF" stroke="#E5E7EB" stroke-width="1"/>
+  <text x="340" y="788" font-family="Inter, sans-serif" font-size="14" fill="#1F2937">••••••••••</text>
+  
+  <!-- Password Requirements -->
+  <text x="740" y="594" font-family="Inter, sans-serif" font-size="14" font-weight="semibold" fill="#6B7280">Password Requirements:</text>
+  <text x="740" y="624" font-family="Inter, sans-serif" font-size="14" fill="#6B7280">• At least 8 characters</text>
+  <text x="740" y="654" font-family="Inter, sans-serif" font-size="14" fill="#6B7280">• At least one uppercase letter</text>
+  <text x="740" y="684" font-family="Inter, sans-serif" font-size="14" fill="#6B7280">• At least one number</text>
+  <text x="740" y="714" font-family="Inter, sans-serif" font-size="14" fill="#6B7280">• At least one special character</text>
+  
+  <rect x="320" y="824" width="160" height="40" rx="8" fill="#3B82F6"/>
+  <text x="400" y="848" font-family="Inter, sans-serif" font-size="14" font-weight="bold" fill="#FFFFFF" text-anchor="middle">Reset Password</text>
+  
+  <rect x="490" y="824" width="100" height="40" rx="8" fill="#FFFFFF" stroke="#E5E7EB" stroke-width="1"/>
+  <text x="540" y="848" font-family="Inter, sans-serif" font-size="14" fill="#1F2937" text-anchor="middle">Cancel</text>
+  
+  <!-- Success Message (Hidden by default, shown after successful operation) -->
+  <rect x="280" y="824" width="880" height="50" rx="8" fill="#10B981" opacity="0"/>
+  <text x="320" y="854" font-family="Inter, sans-serif" font-size="14" font-weight="bold" fill="#FFFFFF" opacity="0">Success! Your profile has been updated.</text>
+</svg>

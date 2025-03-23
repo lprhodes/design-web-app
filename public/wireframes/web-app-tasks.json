@@ -114,7 +114,7 @@
       "id": "task-009",
       "name": "My Team Wireframe",
       "description": "Create wireframe for the Team Management page showing team member listing and management functionality",
-      "status": "pending",
+      "status": "completed",
       "components": [
         "Team member listing",
         "Invite Team Member form",
@@ -134,7 +134,7 @@
       "id": "task-010",
       "name": "Question Registry Wireframe",
       "description": "Create wireframe for the Question Registry showing question and response template management",
-      "status": "pending",
+      "status": "completed",
       "components": [
         "Question registry listing",
         "Add New Question form",
@@ -155,7 +155,7 @@
       "id": "task-011",
       "name": "Profile/Account Settings Wireframe",
       "description": "Create wireframe for the Profile/Account Settings page showing user profile management",
-      "status": "pending",
+      "status": "completed",
       "components": [
         "Profile details view",
         "Edit profile form",
@@ -174,7 +174,7 @@
       "id": "task-012",
       "name": "Company Settings Wireframe",
       "description": "Create wireframe for the Company Settings page showing company profile management",
-      "status": "pending",
+      "status": "completed",
       "components": [
         "Company details view",
         "Edit company details form",
@@ -195,7 +195,7 @@
       "id": "task-013",
       "name": "Give Feedback Wireframe",
       "description": "Create wireframe for the Give Feedback page showing feedback submission form",
-      "status": "pending",
+      "status": "completed",
       "components": [
         "Feedback form",
         "Reason for feedback dropdown",
@@ -215,7 +215,7 @@
       "id": "task-014",
       "name": "Contact Us Wireframe",
       "description": "Create wireframe for the Contact Us page showing contact information and contact form",
-      "status": "pending",
+      "status": "completed",
       "components": [
         "Diolog contact information",
         "Google Map integration",
@@ -235,7 +235,7 @@
       "id": "task-015",
       "name": "Navigation Wireframe",
       "description": "Create wireframe for the Navigation elements (sidebar and header) showing menu items and user controls",
-      "status": "pending",
+      "status": "completed",
       "components": [
         "Sidebar navigation menu",
         "Top header navigation",
@@ -257,7 +257,7 @@
       "id": "task-016",
       "name": "Analytics Dashboard Wireframe",
       "description": "Create wireframe for the Analytics Dashboard showing investor engagement metrics and data visualization",
-      "status": "pending",
+      "status": "completed",
       "components": [
         "Investor engagement metrics",
         "Shareholder sentiment analysis",
