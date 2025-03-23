@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="800" height="1200" viewBox="0 0 800 1200" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="800" height="1200" fill="#F9FAFB" />
+  
+  <!-- Status Bar -->
+  <rect x="0" y="0" width="800" height="40" fill="#1E40AF" />
+  <text x="40" y="25" font-family="Inter, sans-serif" font-size="12" fill="#FFFFFF">9:41 AM</text>
+  <text x="760" y="25" font-family="Inter, sans-serif" font-size="12" fill="#FFFFFF" text-anchor="end">100%</text>
+  
+  <!-- Company Header -->
+  <rect x="0" y="40" width="800" height="100" fill="#FFFFFF" stroke="#E5E7EB" stroke-width="1" />
+  <circle cx="70" cy="90" r="30" fill="#3B82F6" />
+  <text x="70" y="95" font-family="Inter, sans-serif" font-size="16" font-weight="bold" fill="#FFFFFF" text-anchor="middle">AC</text>
+  <text x="120" y="80" font-family="Inter, sans-serif" font-size="20" font-weight="bold" fill="#1F2937">ACME Corporation</text>
+  <text x="120" y="110" font-family="Inter, sans-serif" font-size="14" fill="#6B7280">Technology • ASX: ACM</text>
+  
+  <!-- Back Button -->
+  <circle cx="740" cy="90" r="20" fill="#F3F4F6" />
+  <text x="740" y="95" font-family="Inter, sans-serif" font-size="20" fill="#6B7280" text-anchor="middle">←</text>
+  
+  <!-- Tab Navigation -->
+  <rect x="0" y="140" width="800" height="50" fill="#F3F4F6" />
+  <text x="100" y="170" font-family="Inter, sans-serif" font-size="14" font-weight="bold" fill="#1E40AF">Overview</text>
+  <text x="250" y="170" font-family="Inter, sans-serif" font-size="14" fill="#6B7280">Announcements</text>
+  <text x="400" y="170" font-family="Inter, sans-serif" font-size="14" fill="#6B7280">Events</text>
+  <text x="500" y="170" font-family="Inter, sans-serif" font-size="14" fill="#6B7280">FAQ</text>
+  <text x="600" y="170" font-family="Inter, sans-serif" font-size="14" fill="#6B7280">Contact</text>
+  <rect x="80" y="185" width="80" height="3" fill="#1E40AF" rx="1.5" />
+  
+  <!-- Stock Price Chart Section -->
+  <rect x="20" y="210" width="760" height="200" rx="8" fill="#FFFFFF" stroke="#E5E7EB" stroke-width="1" />
+  <text x="40" y="240" font-family="Inter, sans-serif" font-size="18" font-weight="bold" fill="#1F2937">Stock Price</text>
+  <text x="150" y="240" font-family="Inter, sans-serif" font-size="18" font-weight="bold" fill="#10B981">$45.67 ↑ 2.3%</text>
+  
+  <!-- Chart -->
+  <polyline points="40,350 100,330 160,340 220,320 280,310 340,330 400,300 460,290 520,310 580,280 640,270 700,290 740,280" 
+            stroke="#3B82F6" stroke-width="2" fill="none" />
+  <line x1="40" y1="360" x2="740" y2="360" stroke="#E5E7EB" stroke-width="1" />
+  
+  <!-- Chart Time Labels -->
+  <text x="40" y="380" font-family="Inter, sans-serif" font-size="10" fill="#6B7280">Jan</text>
+  <text x="160" y="380" font-family="Inter, sans-serif" font-size="10" fill="#6B7280">Mar</text>
+  <text x="280" y="380" font-family="Inter, sans-serif" font-size="10" fill="#6B7280">May</text>
+  <text x="400" y="380" font-family="Inter, sans-serif" font-size="10" fill="#6B7280">Jul</text>
+  <text x="520" y="380" font-family="Inter, sans-serif" font-size="10" fill="#6B7280">Sep</text>
+  <text x="640" y="380" font-family="Inter, sans-serif" font-size="10" fill="#6B7280">Nov</text>
+  
+  <!-- Time Period Selector -->
+  <rect x="560" y="210" width="220" height="30" rx="15" fill="#F3F4F6" />
+  <text x="590" y="230" font-family="Inter, sans-serif" font-size="12" fill="#6B7280">1D</text>
+  <text x="620" y="230" font-family="Inter, sans-serif" font-size="12" fill="#6B7280">1W</text>
+  <text x="650" y="230" font-family="Inter, sans-serif" font-size="12" fill="#6B7280">1M</text>
+  <text x="680" y="230" font-family="Inter, sans-serif" font-size="12" fill="#1E40AF" font-weight="bold">1Y</text>
+  <text x="710" y="230" font-family="Inter, sans-serif" font-size="12" fill="#6B7280">5Y</text>
+  <text x="740" y="230" font-family="Inter, sans-serif" font-size="12" fill="#6B7280">All</text>
+  
+  <!-- Company Description Section -->
+  <rect x="20" y="430" width="760" height="150" rx="8" fill="#FFFFFF" stroke="#E5E7EB" stroke-width="1" />
+  <text x="40" y="460" font-family="Inter, sans-serif" font-size="16" font-weight="bold" fill="#1F2937">About ACME Corporation</text>
+  <text x="40" y="490" font-family="Inter, sans-serif" font-size="14" fill="#1F2937">ACME Corporation is a leading technology company specializing in innovative software solutions for businesses. Founded in 1985, we have grown to become a trusted partner for over 5,000 clients worldwide.</text>
+  <text x="40" y="520" font-family="Inter, sans-serif" font-size="14" fill="#1F2937">Our mission is to empower organizations through cutting-edge technology that drives efficiency and growth.</text>
+  <text x="40" y="550" font-family="Inter, sans-serif" font-size="14" fill="#6B7280">Headquarters: Sydney, Australia</text>
+  
+  <!-- Key Information Section -->
+  <rect x="20" y="600" width="760" height="120" rx="8" fill="#FFFFFF" stroke="#E5E7EB" stroke-width="1" />
+  <text x="40" y="630" font-family="Inter, sans-serif" font-size="16" font-weight="bold" fill="#1F2937">Key Information</text>
+  
+  <!-- Key Info Grid -->
+  <text x="40" y="660" font-family="Inter, sans-serif" font-size="14" fill="#6B7280">Market Cap:</text>
+  <text x="150" y="660" font-family="Inter, sans-serif" font-size="14" fill="#1F2937">$4.2B</text>
+  
+  <text x="300" y="660" font-family="Inter, sans-serif" font-size="14" fill="#6B7280">P/E Ratio:</text>
+  <text x="380" y="660" font-family="Inter, sans-serif" font-size="14" fill="#1F2937">22.5</text>
+  
+  <text x="500" y="660" font-family="Inter, sans-serif" font-size="14" fill="#6B7280">Dividend Yield:</text>
+  <text x="610" y="660" font-family="Inter, sans-serif" font-size="14" fill="#1F2937">2.8%</text>
+  
+  <text x="40" y="690" font-family="Inter, sans-serif" font-size="14" fill="#6B7280">52-Week High:</text>
+  <text x="150" y="690" font-family="Inter, sans-serif" font-size="14" fill="#1F2937">$52.14</text>
+  
+  <text x="300" y="690" font-family="Inter, sans-serif" font-size="14" fill="#6B7280">52-Week Low:</text>
+  <text x="400" y="690" font-family="Inter, sans-serif" font-size="14" fill="#1F2937">$38.92</text>
+  
+  <text x="500" y="690" font-family="Inter, sans-serif" font-size="14" fill="#6B7280">Volume (Avg):</text>
+  <text x="610" y="690" font-family="Inter, sans-serif" font-size="14" fill="#1F2937">1.2M</text>
+  
+  <!-- Recent Announcements Section -->
+  <rect x="20" y="740" width="760" height="150" rx="8" fill="#FFFFFF" stroke="#E5E7EB" stroke-width="1" />
+  <text x="40" y="770" font-family="Inter, sans-serif" font-size="16" font-weight="bold" fill="#1F2937">Recent Announcements</text>
+  
+  <!-- Announcement 1 -->
+  <rect x="40" y="790" width="720" height="40" rx="4" fill="#F9FAFB" />
+  <text x="60" y="815" font-family="Inter, sans-serif" font-size="14" font-weight="bold" fill="#1F2937">Quarterly Results Released</text>
+  <text x="700" y="815" font-family="Inter, sans-serif" font-size="12" fill="#6B7280" text-anchor="end">2d ago</text>
+  
+  <!-- Announcement 2 -->
+  <rect x="40" y="840" width="720" height="40" rx="4" fill="#F9FAFB" />
+  <text x="60" y="865" font-family="Inter, sans-serif" font-size="14" font-weight="bold" fill="#1F2937">New Product Launch Announcement</text>
+  <text x="700" y="865" font-family="Inter, sans-serif" font-size="12" fill="#6B7280" text-anchor="end">1w ago</text>
+  
+  <!-- View All Button -->
+  <text x="700" y="770" font-family="Inter, sans-serif" font-size="14" fill="#3B82F6">View All</text>
+  
+  <!-- Upcoming Events Section -->
+  <rect x="20" y="910" width="760" height="150" rx="8" fill="#FFFFFF" stroke="#E5E7EB" stroke-width="1" />
+  <text x="40" y="940" font-family="Inter, sans-serif" font-size="16" font-weight="bold" fill="#1F2937">Upcoming Events</text>
+  
+  <!-- Event 1 -->
+  <rect x="40" y="960" width="720" height="40" rx="4" fill="#F9FAFB" />
+  <text x="60" y="985" font-family="Inter, sans-serif" font-size="14" font-weight="bold" fill="#1F2937">Investor Briefing: Q2 Results</text>
+  <text x="700" y="985" font-family="Inter, sans-serif" font-size="12" fill="#F59E0B" text-anchor="end">Jun 15</text>
+  
+  <!-- Event 2 -->
+  <rect x="40" y="1010" width="720" height="40" rx="4" fill="#F9FAFB" />
+  <text x="60" y="1035" font-family="Inter, sans-serif" font-size="14" font-weight="bold" fill="#1F2937">Annual General Meeting</text>
+  <text x="700" y="1035" font-family="Inter, sans-serif" font-size="12" fill="#F59E0B" text-anchor="end">Jul 30</text>
+  
+  <!-- View All Button -->
+  <text x="700" y="940" font-family="Inter, sans-serif" font-size="14" fill="#3B82F6">View All</text>
+  
+  <!-- Navigation Bar -->
+  <rect x="0" y="1120" width="800" height="80" fill="#FFFFFF" stroke="#E5E7EB" stroke-width="1" />
+  
+  <!-- Home Tab -->
+  <circle cx="120" cy="1150" r="30" fill="#FFFFFF" />
+  <rect x="105" y="1140" width="30" height="30" fill="#6B7280" rx="4" />
+  <text x="120" y="1190" font-family="Inter, sans-serif" font-size="12" fill="#6B7280" text-anchor="middle">Home</text>
+  
+  <!-- Companies Tab (Active) -->
+  <circle cx="280" cy="1150" r="30" fill="#EFF6FF" />
+  <rect x="265" y="1140" width="30" height="30" fill="#3B82F6" rx="4" />
+  <text x="280" y="1190" font-family="Inter, sans-serif" font-size="12" font-weight="bold" fill="#3B82F6" text-anchor="middle">Companies</text>
+  
+  <!-- Notifications Tab -->
+  <circle cx="440" cy="1150" r="30" fill="#FFFFFF" />
+  <circle cx="440" cy="1150" r="15" stroke="#6B7280" stroke-width="2" fill="none" />
+  <text x="440" y="1190" font-family="Inter, sans-serif" font-size="12" fill="#6B7280" text-anchor="middle">Notifications</text>
+  
+  <!-- Profile Tab -->
+  <circle cx="600" cy="1150" r="30" fill="#FFFFFF" />
+  <circle cx="600" cy="1150" r="15" stroke="#6B7280" stroke-width="2" fill="none" />
+  <circle cx="600" cy="1145" r="5" stroke="#6B7280" stroke-width="2" fill="none" />
+  <path d="M585,1160 Q600,1170 615,1160" stroke="#6B7280" stroke-width="2" fill="none" />
+  <text x="600" y="1190" font-family="Inter, sans-serif" font-size="12" fill="#6B7280" text-anchor="middle">Profile</text>
+</svg>

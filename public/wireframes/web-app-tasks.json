@@ -1,0 +1,409 @@
+{
+  "project": "Diolog Web Application Wireframes",
+  "description": "Systematic task list for generating wireframes for each screen in the Diolog Web Application PRD",
+  "lastUpdated": "2023-11-01",
+  "tasks": [
+    {
+      "id": "task-004",
+      "name": "Dashboard Wireframe",
+      "description": "Create wireframe for the main Dashboard showing key metrics, charts, and navigation elements",
+      "status": "completed",
+      "components": [
+        "User greeting and quick action buttons",
+        "Question metrics summary",
+        "Performance indicators",
+        "Historical engagement chart",
+        "Investor breakdown and sentiment overview",
+        "Latest published announcements",
+        "Upcoming events summary",
+        "Navigation sidebar"
+      ],
+      "outputFiles": {
+        "svg": "diolog-web-dashboard.svg",
+        "markdown": "diolog-web-dashboard.md"
+      },
+      "priority": "high",
+      "dependencies": []
+    },
+    {
+      "id": "task-005",
+      "name": "Calendar/Events Wireframe",
+      "description": "Create wireframe for the Calendar/Events page showing calendar view and event management functionality",
+      "status": "completed",
+      "components": [
+        "Calendar view (monthly, weekly, daily)",
+        "Event listing",
+        "Add New Event form",
+        "Event details view",
+        "Edit and Delete event options",
+        "Event attachments",
+        "Color coding for event types"
+      ],
+      "outputFiles": {
+        "svg": "diolog-web-calendar-events.svg",
+        "markdown": "diolog-web-calendar-events.md"
+      },
+      "priority": "medium",
+      "dependencies": ["task-004"]
+    },
+    {
+      "id": "task-006",
+      "name": "Announcements Wireframe",
+      "description": "Create wireframe for the Announcements page showing announcement listing and management functionality",
+      "status": "completed",
+      "components": [
+        "Announcement listing",
+        "Create New Announcement form",
+        "Announcement details view",
+        "Edit and Delete announcement options",
+        "Announcement status indicators",
+        "Pin Announcement functionality",
+        "ASX announcement integration"
+      ],
+      "outputFiles": {
+        "svg": "diolog-web-announcements.svg",
+        "markdown": "diolog-web-announcements.md"
+      },
+      "priority": "medium",
+      "dependencies": ["task-004"]
+    },
+    {
+      "id": "task-007",
+      "name": "Questions Board Wireframe",
+      "description": "Create wireframe for the Questions Board showing Kanban-style board for managing investor questions",
+      "status": "completed",
+      "components": [
+        "Kanban-style board with status columns (Outstanding, Active, Closed)",
+        "Question cards with drag-and-drop functionality",
+        "Question details view",
+        "Response area with rich text editor",
+        "Question categorization",
+        "Bulk actions",
+        "Filtering and sorting options",
+        "Search functionality"
+      ],
+      "outputFiles": {
+        "svg": "diolog-web-questions-board.svg",
+        "markdown": "diolog-web-questions-board.md"
+      },
+      "priority": "high",
+      "dependencies": ["task-004"]
+    },
+    {
+      "id": "task-008",
+      "name": "Our FAQs Wireframe",
+      "description": "Create wireframe for the FAQs page showing FAQ listing and management functionality",
+      "status": "completed",
+      "components": [
+        "FAQ listing with categories",
+        "Add New FAQ form",
+        "FAQ details view",
+        "Edit and Delete FAQ options",
+        "FAQ search functionality",
+        "FAQ visibility controls",
+        "FAQ categorization/tagging"
+      ],
+      "outputFiles": {
+        "svg": "diolog-web-faqs.svg",
+        "markdown": "diolog-web-faqs.md"
+      },
+      "priority": "medium",
+      "dependencies": ["task-004"]
+    },
+    {
+      "id": "task-009",
+      "name": "My Team Wireframe",
+      "description": "Create wireframe for the Team Management page showing team member listing and management functionality",
+      "status": "pending",
+      "components": [
+        "Team member listing",
+        "Invite Team Member form",
+        "Team member details",
+        "Edit team member details",
+        "Remove team member option",
+        "Role-based access control settings"
+      ],
+      "outputFiles": {
+        "svg": "diolog-web-team-management.svg",
+        "markdown": "diolog-web-team-management.md"
+      },
+      "priority": "medium",
+      "dependencies": ["task-004"]
+    },
+    {
+      "id": "task-010",
+      "name": "Question Registry Wireframe",
+      "description": "Create wireframe for the Question Registry showing question and response template management",
+      "status": "pending",
+      "components": [
+        "Question registry listing",
+        "Add New Question form",
+        "Question registry entry details",
+        "Edit and Delete registry entry options",
+        "Star/Favorite questions functionality",
+        "Search and filter options",
+        "CSV import functionality"
+      ],
+      "outputFiles": {
+        "svg": "diolog-web-question-registry.svg",
+        "markdown": "diolog-web-question-registry.md"
+      },
+      "priority": "medium",
+      "dependencies": ["task-004", "task-007"]
+    },
+    {
+      "id": "task-011",
+      "name": "Profile/Account Settings Wireframe",
+      "description": "Create wireframe for the Profile/Account Settings page showing user profile management",
+      "status": "pending",
+      "components": [
+        "Profile details view",
+        "Edit profile form",
+        "Profile image upload",
+        "Form validation",
+        "Save changes and confirmation messages"
+      ],
+      "outputFiles": {
+        "svg": "diolog-web-profile-settings.svg",
+        "markdown": "diolog-web-profile-settings.md"
+      },
+      "priority": "medium",
+      "dependencies": ["task-004"]
+    },
+    {
+      "id": "task-012",
+      "name": "Company Settings Wireframe",
+      "description": "Create wireframe for the Company Settings page showing company profile management",
+      "status": "pending",
+      "components": [
+        "Company details view",
+        "Edit company details form",
+        "Company logo upload",
+        "Question categories management",
+        "Pricing plan information",
+        "Form validation",
+        "Save changes and confirmation messages"
+      ],
+      "outputFiles": {
+        "svg": "diolog-web-company-settings.svg",
+        "markdown": "diolog-web-company-settings.md"
+      },
+      "priority": "medium",
+      "dependencies": ["task-004"]
+    },
+    {
+      "id": "task-013",
+      "name": "Give Feedback Wireframe",
+      "description": "Create wireframe for the Give Feedback page showing feedback submission form",
+      "status": "pending",
+      "components": [
+        "Feedback form",
+        "Reason for feedback dropdown",
+        "Description text area",
+        "Attachment upload",
+        "Submit and Cancel buttons",
+        "Confirmation message"
+      ],
+      "outputFiles": {
+        "svg": "diolog-web-feedback.svg",
+        "markdown": "diolog-web-feedback.md"
+      },
+      "priority": "low",
+      "dependencies": ["task-004"]
+    },
+    {
+      "id": "task-014",
+      "name": "Contact Us Wireframe",
+      "description": "Create wireframe for the Contact Us page showing contact information and contact form",
+      "status": "pending",
+      "components": [
+        "Diolog contact information",
+        "Google Map integration",
+        "Contact form",
+        "Send Message button",
+        "Help link",
+        "Website link"
+      ],
+      "outputFiles": {
+        "svg": "diolog-web-contact-us.svg",
+        "markdown": "diolog-web-contact-us.md"
+      },
+      "priority": "low",
+      "dependencies": ["task-004"]
+    },
+    {
+      "id": "task-015",
+      "name": "Navigation Wireframe",
+      "description": "Create wireframe for the Navigation elements (sidebar and header) showing menu items and user controls",
+      "status": "pending",
+      "components": [
+        "Sidebar navigation menu",
+        "Top header navigation",
+        "Company profile dropdown",
+        "User profile dropdown",
+        "Notifications icon",
+        "Upcoming events indicator",
+        "Create Event and Compose Announcement buttons",
+        "Upgrade to Premium CTA (for Freemium plan)"
+      ],
+      "outputFiles": {
+        "svg": "diolog-web-navigation.svg",
+        "markdown": "diolog-web-navigation.md"
+      },
+      "priority": "high",
+      "dependencies": ["task-004"]
+    },
+    {
+      "id": "task-016",
+      "name": "Analytics Dashboard Wireframe",
+      "description": "Create wireframe for the Analytics Dashboard showing investor engagement metrics and data visualization",
+      "status": "pending",
+      "components": [
+        "Investor engagement metrics",
+        "Shareholder sentiment analysis",
+        "Investor demographics",
+        "Data visualization charts",
+        "Data export options",
+        "Date range filtering"
+      ],
+      "outputFiles": {
+        "svg": "diolog-web-analytics.svg",
+        "markdown": "diolog-web-analytics.md"
+      },
+      "priority": "medium",
+      "dependencies": ["task-004"]
+    },
+    {
+      "id": "task-018",
+      "name": "Question Details Wireframe",
+      "description": "Create wireframe for the Question Details view showing detailed question information and response interface",
+      "status": "completed",
+      "components": [
+        "Full question text",
+        "Investor details",
+        "Question status controls",
+        "Team member assignment",
+        "Category tagging",
+        "Question history/activity log",
+        "Response area with rich text editor",
+        "Response template selection",
+        "Action buttons (Send Response, Close Question, Archive, Add to Registry)"
+      ],
+      "outputFiles": {
+        "svg": "diolog-web-question-details.svg",
+        "markdown": "diolog-web-question-details.md"
+      },
+      "priority": "high",
+      "dependencies": ["task-007"]
+    },
+    {
+      "id": "task-019",
+      "name": "Announcement Creation Wireframe",
+      "description": "Create wireframe for the Announcement Creation form showing detailed announcement creation interface",
+      "status": "completed",
+      "components": [
+        "Announcement title field",
+        "Rich text editor for content",
+        "Publish date and time options",
+        "Visibility settings",
+        "Attachment upload",
+        "Preview option",
+        "Save as draft, Schedule, and Publish buttons"
+      ],
+      "outputFiles": {
+        "svg": "diolog-web-announcement-creation.svg",
+        "markdown": "diolog-web-announcement-creation.md"
+      },
+      "priority": "high",
+      "dependencies": ["task-006"]
+    },
+    {
+      "id": "task-020",
+      "name": "Event Creation Wireframe",
+      "description": "Create wireframe for the Event Creation form showing detailed event creation interface",
+      "status": "completed",
+      "components": [
+        "Event title field",
+        "Location field",
+        "Date and time selectors",
+        "All day event checkbox",
+        "Event type/category selection",
+        "Rich text editor for description",
+        "Visibility settings",
+        "Attachment upload",
+        "Save and Cancel buttons"
+      ],
+      "outputFiles": {
+        "svg": "diolog-web-event-creation.svg",
+        "markdown": "diolog-web-event-creation.md"
+      },
+      "priority": "high",
+      "dependencies": ["task-005"]
+    }
+  ],
+  "designGuidelines": {
+    "colorPalette": {
+      "primary": "#1E40AF",
+      "secondary": "#3B82F6",
+      "accent": "#F59E0B",
+      "background": "#F9FAFB",
+      "text": "#1F2937",
+      "lightText": "#6B7280",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444",
+      "border": "#E5E7EB",
+      "card": "#FFFFFF"
+    },
+    "typography": {
+      "fontFamily": "Inter, sans-serif",
+      "headings": {
+        "h1": "24px bold",
+        "h2": "20px bold",
+        "h3": "18px semibold",
+        "h4": "16px semibold"
+      },
+      "body": {
+        "regular": "14px regular",
+        "small": "12px regular"
+      }
+    },
+    "spacing": {
+      "xs": "4px",
+      "sm": "8px",
+      "md": "16px",
+      "lg": "24px",
+      "xl": "32px"
+    },
+    "borderRadius": {
+      "sm": "4px",
+      "md": "8px",
+      "lg": "12px",
+      "full": "9999px"
+    },
+    "shadows": {
+      "sm": "0 1px 2px 0 rgba(0, 0, 0, 0.05)",
+      "md": "0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.06)",
+      "lg": "0 10px 15px -3px rgba(0, 0, 0, 0.1), 0 4px 6px -2px rgba(0, 0, 0, 0.05)"
+    },
+    "layout": {
+      "maxWidth": "1280px",
+      "sidebarWidth": "240px",
+      "headerHeight": "64px"
+    }
+  },
+  "referenceWireframes": [
+    "chatter-monitor-analytics.svg",
+    "chatter-monitor-alerts.svg",
+    "chatter-monitor-filter-panel.svg",
+    "chatter-monitor-mention-details.svg",
+    "company-chatter-monitor.svg",
+    "diolog-home-tab.svg",
+    "diolog-company-conversation.svg",
+    "diolog-companies-tab.svg",
+    "diolog-notifications-tab.svg",
+    "diolog-profile-tab.svg",
+    "diolog-company-details.svg",
+    "diolog-onboarding-screens.svg"
+  ]
+}

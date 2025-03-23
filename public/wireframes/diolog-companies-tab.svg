@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="800" height="1200" viewBox="0 0 800 1200" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="800" height="1200" fill="#F9FAFB" />
+  
+  <!-- Status Bar -->
+  <rect x="0" y="0" width="800" height="40" fill="#1E40AF" />
+  <text x="40" y="25" font-family="Inter, sans-serif" font-size="12" fill="#FFFFFF">9:41 AM</text>
+  <text x="760" y="25" font-family="Inter, sans-serif" font-size="12" fill="#FFFFFF" text-anchor="end">100%</text>
+  
+  <!-- Header -->
+  <rect x="0" y="40" width="800" height="60" fill="#FFFFFF" stroke="#E5E7EB" stroke-width="1" />
+  <text x="40" y="80" font-family="Inter, sans-serif" font-size="24" font-weight="bold" fill="#1F2937">Companies</text>
+  
+  <!-- Search Bar -->
+  <rect x="20" y="120" width="760" height="50" rx="8" fill="#FFFFFF" stroke="#E5E7EB" stroke-width="1" />
+  <circle cx="50" cy="145" r="12" stroke="#6B7280" stroke-width="2" fill="none" />
+  <line x1="58" y1="153" x2="70" y2="165" stroke="#6B7280" stroke-width="2" />
+  <text x="80" y="150" font-family="Inter, sans-serif" font-size="14" fill="#9CA3AF">Search companies...</text>
+  
+  <!-- Filter Bar -->
+  <rect x="0" y="190" width="800" height="50" fill="#F3F4F6" />
+  <text x="20" y="220" font-family="Inter, sans-serif" font-size="14" fill="#1F2937">All</text>
+  <text x="80" y="220" font-family="Inter, sans-serif" font-size="14" fill="#6B7280">Following</text>
+  <text x="180" y="220" font-family="Inter, sans-serif" font-size="14" fill="#6B7280">Technology</text>
+  <text x="280" y="220" font-family="Inter, sans-serif" font-size="14" fill="#6B7280">Healthcare</text>
+  <text x="380" y="220" font-family="Inter, sans-serif" font-size="14" fill="#6B7280">Finance</text>
+  
+  <!-- Sort Button -->
+  <rect x="700" y="200" width="80" height="30" rx="15" fill="#FFFFFF" stroke="#E5E7EB" stroke-width="1" />
+  <text x="725" y="220" font-family="Inter, sans-serif" font-size="12" fill="#6B7280">Sort</text>
+  <text x="760" y="220" font-family="Inter, sans-serif" font-size="12" fill="#6B7280">↓</text>
+  
+  <!-- Company List -->
+  <!-- Company 1 - Following -->
+  <rect x="20" y="260" width="760" height="100" rx="8" fill="#FFFFFF" stroke="#E5E7EB" stroke-width="1" />
+  <circle cx="70" cy="310" r="30" fill="#3B82F6" />
+  <text x="70" y="315" font-family="Inter, sans-serif" font-size="16" font-weight="bold" fill="#FFFFFF" text-anchor="middle">AC</text>
+  <text x="120" y="290" font-family="Inter, sans-serif" font-size="18" font-weight="bold" fill="#1F2937">ACME Corporation</text>
+  <text x="120" y="320" font-family="Inter, sans-serif" font-size="14" fill="#6B7280">Technology • ASX: ACM</text>
+  <text x="120" y="345" font-family="Inter, sans-serif" font-size="12" fill="#6B7280">Last update: 2 hours ago</text>
+  
+  <!-- Following Badge -->
+  <rect x="650" y="280" width="100" height="30" rx="15" fill="#EFF6FF" stroke="#3B82F6" stroke-width="1" />
+  <text x="700" y="300" font-family="Inter, sans-serif" font-size="12" fill="#3B82F6" text-anchor="middle">Following</text>
+  
+  <!-- Stock Price -->
+  <text x="700" y="340" font-family="Inter, sans-serif" font-size="14" font-weight="bold" fill="#10B981">$45.67 ↑</text>
+  
+  <!-- Company 2 - Following -->
+  <rect x="20" y="380" width="760" height="100" rx="8" fill="#FFFFFF" stroke="#E5E7EB" stroke-width="1" />
+  <circle cx="70" cy="430" r="30" fill="#F59E0B" />
+  <text x="70" y="435" font-family="Inter, sans-serif" font-size="16" font-weight="bold" fill="#FFFFFF" text-anchor="middle">GH</text>
+  <text x="120" y="410" font-family="Inter, sans-serif" font-size="18" font-weight="bold" fill="#1F2937">Global Health Ltd</text>
+  <text x="120" y="440" font-family="Inter, sans-serif" font-size="14" fill="#6B7280">Healthcare • ASX: GHL</text>
+  <text x="120" y="465" font-family="Inter, sans-serif" font-size="12" fill="#6B7280">Last update: 1 day ago</text>
+  
+  <!-- Following Badge -->
+  <rect x="650" y="400" width="100" height="30" rx="15" fill="#EFF6FF" stroke="#3B82F6" stroke-width="1" />
+  <text x="700" y="420" font-family="Inter, sans-serif" font-size="12" fill="#3B82F6" text-anchor="middle">Following</text>
+  
+  <!-- Stock Price -->
+  <text x="700" y="460" font-family="Inter, sans-serif" font-size="14" font-weight="bold" fill="#EF4444">$28.32 ↓</text>
+  
+  <!-- Company 3 - Following -->
+  <rect x="20" y="500" width="760" height="100" rx="8" fill="#FFFFFF" stroke="#E5E7EB" stroke-width="1" />
+  <circle cx="70" cy="550" r="30" fill="#10B981" />
+  <text x="70" y="555" font-family="Inter, sans-serif" font-size="16" font-weight="bold" fill="#FFFFFF" text-anchor="middle">TE</text>
+  <text x="120" y="530" font-family="Inter, sans-serif" font-size="18" font-weight="bold" fill="#1F2937">Tech Enterprises Inc</text>
+  <text x="120" y="560" font-family="Inter, sans-serif" font-size="14" fill="#6B7280">Technology • ASX: TEI</text>
+  <text x="120" y="585" font-family="Inter, sans-serif" font-size="12" fill="#6B7280">Last update: 3 days ago</text>
+  
+  <!-- Following Badge -->
+  <rect x="650" y="520" width="100" height="30" rx="15" fill="#EFF6FF" stroke="#3B82F6" stroke-width="1" />
+  <text x="700" y="540" font-family="Inter, sans-serif" font-size="12" fill="#3B82F6" text-anchor="middle">Following</text>
+  
+  <!-- Stock Price -->
+  <text x="700" y="580" font-family="Inter, sans-serif" font-size="14" font-weight="bold" fill="#10B981">$67.89 ↑</text>
+  
+  <!-- Company 4 - Not Following -->
+  <rect x="20" y="620" width="760" height="100" rx="8" fill="#FFFFFF" stroke="#E5E7EB" stroke-width="1" />
+  <circle cx="70" cy="670" r="30" fill="#6B7280" />
+  <text x="70" y="675" font-family="Inter, sans-serif" font-size="16" font-weight="bold" fill="#FFFFFF" text-anchor="middle">FB</text>
+  <text x="120" y="650" font-family="Inter, sans-serif" font-size="18" font-weight="bold" fill="#1F2937">Finance Bank Group</text>
+  <text x="120" y="680" font-family="Inter, sans-serif" font-size="14" fill="#6B7280">Finance • ASX: FBG</text>
+  <text x="120" y="705" font-family="Inter, sans-serif" font-size="12" fill="#6B7280">Last update: 5 days ago</text>
+  
+  <!-- Follow Button -->
+  <rect x="650" y="640" width="100" height="30" rx="15" fill="#FFFFFF" stroke="#6B7280" stroke-width="1" />
+  <text x="700" y="660" font-family="Inter, sans-serif" font-size="12" fill="#6B7280" text-anchor="middle">Follow</text>
+  
+  <!-- Stock Price -->
+  <text x="700" y="700" font-family="Inter, sans-serif" font-size="14" font-weight="bold" fill="#10B981">$92.15 ↑</text>
+  
+  <!-- Company 5 - Not Following -->
+  <rect x="20" y="740" width="760" height="100" rx="8" fill="#FFFFFF" stroke="#E5E7EB" stroke-width="1" />
+  <circle cx="70" cy="790" r="30" fill="#6B7280" />
+  <text x="70" y="795" font-family="Inter, sans-serif" font-size="16" font-weight="bold" fill="#FFFFFF" text-anchor="middle">RM</text>
+  <text x="120" y="770" font-family="Inter, sans-serif" font-size="18" font-weight="bold" fill="#1F2937">Resource Mining Ltd</text>
+  <text x="120" y="800" font-family="Inter, sans-serif" font-size="14" fill="#6B7280">Resources • ASX: RML</text>
+  <text x="120" y="825" font-family="Inter, sans-serif" font-size="12" fill="#6B7280">Last update: 1 week ago</text>
+  
+  <!-- Follow Button -->
+  <rect x="650" y="760" width="100" height="30" rx="15" fill="#FFFFFF" stroke="#6B7280" stroke-width="1" />
+  <text x="700" y="780" font-family="Inter, sans-serif" font-size="12" fill="#6B7280" text-anchor="middle">Follow</text>
+  
+  <!-- Stock Price -->
+  <text x="700" y="820" font-family="Inter, sans-serif" font-size="14" font-weight="bold" fill="#EF4444">$12.78 ↓</text>
+  
+  <!-- Discover More Button -->
+  <rect x="20" y="860" width="760" height="60" rx="8" fill="#EFF6FF" stroke="#3B82F6" stroke-width="1" />
+  <text x="400" y="895" font-family="Inter, sans-serif" font-size="16" fill="#3B82F6" text-anchor="middle">Discover More Companies</text>
+  
+  <!-- Navigation Bar -->
+  <rect x="0" y="1120" width="800" height="80" fill="#FFFFFF" stroke="#E5E7EB" stroke-width="1" />
+  
+  <!-- Home Tab -->
+  <circle cx="120" cy="1150" r="30" fill="#FFFFFF" />
+  <rect x="105" y="1140" width="30" height="30" fill="#6B7280" rx="4" />
+  <text x="120" y="1190" font-family="Inter, sans-serif" font-size="12" fill="#6B7280" text-anchor="middle">Home</text>
+  
+  <!-- Companies Tab (Active) -->
+  <circle cx="280" cy="1150" r="30" fill="#EFF6FF" />
+  <rect x="265" y="1140" width="30" height="30" fill="#3B82F6" rx="4" />
+  <text x="280" y="1190" font-family="Inter, sans-serif" font-size="12" font-weight="bold" fill="#3B82F6" text-anchor="middle">Companies</text>
+  
+  <!-- Notifications Tab -->
+  <circle cx="440" cy="1150" r="30" fill="#FFFFFF" />
+  <circle cx="440" cy="1150" r="15" stroke="#6B7280" stroke-width="2" fill="none" />
+  <text x="440" y="1190" font-family="Inter, sans-serif" font-size="12" fill="#6B7280" text-anchor="middle">Notifications</text>
+  
+  <!-- Profile Tab -->
+  <circle cx="600" cy="1150" r="30" fill="#FFFFFF" />
+  <circle cx="600" cy="1150" r="15" stroke="#6B7280" stroke-width="2" fill="none" />
+  <circle cx="600" cy="1145" r="5" stroke="#6B7280" stroke-width="2" fill="none" />
+  <path d="M585,1160 Q600,1170 615,1160" stroke="#6B7280" stroke-width="2" fill="none" />
+  <text x="600" y="1190" font-family="Inter, sans-serif" font-size="12" fill="#6B7280" text-anchor="middle">Profile</text>
+</svg>

@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1280" height="800" viewBox="0 0 1280 800" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="1280" height="800" fill="#F9FAFB"/>
+  
+  <!-- Sidebar Navigation -->
+  <rect x="0" y="0" width="240" height="800" fill="#FFFFFF" stroke="#E5E7EB" stroke-width="1"/>
+  
+  <!-- Sidebar Logo -->
+  <rect x="24" y="24" width="192" height="40" rx="4" fill="#1E40AF" opacity="0.9"/>
+  <text x="70" y="50" font-family="Inter, sans-serif" font-size="20" font-weight="bold" fill="white">DIOLOG</text>
+  
+  <!-- Sidebar Menu Items -->
+  <text x="56" y="112" font-family="Inter, sans-serif" font-size="14" fill="#1F2937">Dashboard</text>
+  <circle cx="32" cy="108" r="8" fill="#6B7280" opacity="0.8"/>
+  
+  <text x="56" y="160" font-family="Inter, sans-serif" font-size="14" fill="#1F2937">Calendar/Events</text>
+  <circle cx="32" cy="156" r="8" fill="#6B7280" opacity="0.8"/>
+  
+  <text x="56" y="208" font-family="Inter, sans-serif" font-size="14" fill="#1F2937">Announcements</text>
+  <circle cx="32" cy="204" r="8" fill="#6B7280" opacity="0.8"/>
+  
+  <rect x="16" y="240" width="208" height="40" rx="4" fill="#3B82F6" opacity="0.1"/>
+  <text x="56" y="264" font-family="Inter, sans-serif" font-size="14" fill="#1E40AF">Questions Board</text>
+  <circle cx="32" cy="260" r="8" fill="#1E40AF" opacity="0.8"/>
+  <circle cx="180" cy="260" r="10" fill="#EF4444"/>
+  <text x="177" y="264" font-family="Inter, sans-serif" font-size="12" font-weight="bold" fill="white">5</text>
+  
+  <text x="56" y="312" font-family="Inter, sans-serif" font-size="14" fill="#1F2937">Our FAQs</text>
+  <circle cx="32" cy="308" r="8" fill="#6B7280" opacity="0.8"/>
+  
+  <text x="56" y="360" font-family="Inter, sans-serif" font-size="14" fill="#1F2937">My Team</text>
+  <circle cx="32" cy="356" r="8" fill="#6B7280" opacity="0.8"/>
+  
+  <text x="56" y="408" font-family="Inter, sans-serif" font-size="14" fill="#1F2937">Question Registry</text>
+  <circle cx="32" cy="404" r="8" fill="#6B7280" opacity="0.8"/>
+  
+  <text x="56" y="456" font-family="Inter, sans-serif" font-size="14" fill="#1F2937">Analytics</text>
+  <circle cx="32" cy="452" r="8" fill="#6B7280" opacity="0.8"/>
+  
+  <text x="56" y="504" font-family="Inter, sans-serif" font-size="14" fill="#1F2937">Settings</text>
+  <circle cx="32" cy="500" r="8" fill="#6B7280" opacity="0.8"/>
+  
+  <text x="56" y="552" font-family="Inter, sans-serif" font-size="14" fill="#1F2937">Give Feedback</text>
+  <circle cx="32" cy="548" r="8" fill="#6B7280" opacity="0.8"/>
+  
+  <text x="56" y="600" font-family="Inter, sans-serif" font-size="14" fill="#1F2937">Contact Us</text>
+  <circle cx="32" cy="596" r="8" fill="#6B7280" opacity="0.8"/>
+  
+  <!-- Upgrade to Premium CTA -->
+  <rect x="24" y="648" width="192" height="48" rx="8" fill="#F59E0B" opacity="0.9"/>
+  <text x="64" y="678" font-family="Inter, sans-serif" font-size="14" font-weight="bold" fill="white">Upgrade to Premium</text>
+  
+  <!-- Top Header -->
+  <rect x="240" y="0" width="1040" height="64" fill="#FFFFFF" stroke="#E5E7EB" stroke-width="1"/>
+  
+  <!-- Company Profile Dropdown -->
+  <rect x="264" y="16" width="200" height="32" rx="16" fill="#F9FAFB" stroke="#E5E7EB" stroke-width="1"/>
+  <circle cx="280" cy="32" r="12" fill="#3B82F6"/>
+  <text x="300" y="36" font-family="Inter, sans-serif" font-size="14" fill="#1F2937">Acme Corporation</text>
+  <path d="M448 32 L456 40 L464 32" stroke="#6B7280" stroke-width="2" fill="none"/>
+  
+  <!-- User Profile & Notifications -->
+  <circle cx="1060" cy="32" r="16" fill="#F9FAFB" stroke="#E5E7EB" stroke-width="1"/>
+  <path d="M1056 32 L1060 36 L1064 32" stroke="#6B7280" stroke-width="2" fill="none"/>
+  
+  <circle cx="1100" cy="32" r="16" fill="#F9FAFB" stroke="#E5E7EB" stroke-width="1"/>
+  <path d="M1100 26 L1100 32 M1096 36 L1104 36" stroke="#6B7280" stroke-width="2"/>
+  
+  <circle cx="1140" cy="32" r="16" fill="#F9FAFB" stroke="#E5E7EB" stroke-width="1"/>
+  <circle cx="1140" cy="32" r="8" fill="#6B7280" opacity="0.2"/>
+  <text x="1138" y="36" font-family="Inter, sans-serif" font-size="12" font-weight="bold" fill="#1F2937">J</text>
+  
+  <!-- Main Content Area -->
+  <rect x="264" y="88" width="992" height="48" rx="8" fill="#FFFFFF" stroke="#E5E7EB" stroke-width="1"/>
+  <text x="288" y="118" font-family="Inter, sans-serif" font-size="18" font-weight="bold" fill="#1F2937">Questions Board</text>
+  
+  <!-- Search and Filter -->
+  <rect x="800" y="96" width="240" height="32" rx="16" fill="#FFFFFF" stroke="#E5E7EB" stroke-width="1"/>
+  <text x="824" y="118" font-family="Inter, sans-serif" font-size="14" fill="#6B7280">Search questions...</text>
+  <circle cx="1020" cy="112" r="8" fill="#6B7280" opacity="0.2"/>
+  <path d="M1026 118 L1032 124" stroke="#6B7280" stroke-width="2"/>
+  
+  <rect x="1060" y="96" width="100" height="32" rx="16" fill="#FFFFFF" stroke="#E5E7EB" stroke-width="1"/>
+  <text x="1080" y="118" font-family="Inter, sans-serif" font-size="14" fill="#6B7280">Filter</text>
+  <path d="M1140 106 L1148 114 L1140 122" stroke="#6B7280" stroke-width="2" fill="none"/>
+  
+  <!-- Kanban Board -->
+  <rect x="264" y="160" width="320" height="620" rx="8" fill="#FFFFFF" stroke="#E5E7EB" stroke-width="1"/>
+  <rect x="264" y="160" width="320" height="48" rx="8 8 0 0" fill="#EF4444" opacity="0.1"/>
+  <text x="288" y="190" font-family="Inter, sans-serif" font-size="16" font-weight="bold" fill="#EF4444">Outstanding (5)</text>
+  
+  <rect x="600" y="160" width="320" height="620" rx="8" fill="#FFFFFF" stroke="#E5E7EB" stroke-width="1"/>
+  <rect x="600" y="160" width="320" height="48" rx="8 8 0 0" fill="#F59E0B" opacity="0.1"/>
+  <text x="624" y="190" font-family="Inter, sans-serif" font-size="16" font-weight="bold" fill="#F59E0B">Active (3)</text>
+  
+  <rect x="936" y="160" width="320" height="620" rx="8" fill="#FFFFFF" stroke="#E5E7EB" stroke-width="1"/>
+  <rect x="936" y="160" width="320" height="48" rx="8 8 0 0" fill="#10B981" opacity="0.1"/>
+  <text x="960" y="190" font-family="Inter, sans-serif" font-size="16" font-weight="bold" fill="#10B981">Closed (12)</text>
+  
+  <!-- Outstanding Column Cards (Grid Layout) -->
+  <rect x="280" y="224" width="140" height="140" rx="8" fill="#FFFFFF" stroke="#E5E7EB" stroke-width="1"/>
+  <rect x="280" y="224" width="140" height="8" rx="4" fill="#EF4444"/>
+  <text x="288" y="252" font-family="Inter, sans-serif" font-size="14" font-weight="bold" fill="#1F2937">Q3 Results</text>
+  <text x="288" y="272" font-family="Inter, sans-serif" font-size="12" fill="#6B7280" opacity="0.8">When will the Q3 results be published?</text>
+  <text x="288" y="320" font-family="Inter, sans-serif" font-size="12" fill="#6B7280">Sarah J. • 2h ago</text>
+  <rect x="288" y="340" width="60" height="16" rx="8" fill="#3B82F6" opacity="0.1"/>
+  <text x="298" y="352" font-family="Inter, sans-serif" font-size="10" fill="#3B82F6">Financial</text>
+  
+  <rect x="428" y="224" width="140" height="140" rx="8" fill="#FFFFFF" stroke="#E5E7EB" stroke-width="1"/>
+  <rect x="428" y="224" width="140" height="8" rx="4" fill="#EF4444"/>
+  <text x="436" y="252" font-family="Inter, sans-serif" font-size="14" font-weight="bold" fill="#1F2937">Dividend Policy</text>
+  <text x="436" y="272" font-family="Inter, sans-serif" font-size="12" fill="#6B7280" opacity="0.8">Is there any change to the dividend policy?</text>
+  <text x="436" y="320" font-family="Inter, sans-serif" font-size="12" fill="#6B7280">Michael T. • 3h ago</text>
+  <rect x="436" y="340" width="60" height="16" rx="8" fill="#3B82F6" opacity="0.1"/>
+  <text x="446" y="352" font-family="Inter, sans-serif" font-size="10" fill="#3B82F6">Financial</text>
+  
+  <rect x="280" y="380" width="140" height="140" rx="8" fill="#FFFFFF" stroke="#E5E7EB" stroke-width="1"/>
+  <rect x="280" y="380" width="140" height="8" rx="4" fill="#EF4444"/>
+  <text x="288" y="408" font-family="Inter, sans-serif" font-size="14" font-weight="bold" fill="#1F2937">New Product</text>
+  <text x="288" y="428" font-family="Inter, sans-serif" font-size="12" fill="#6B7280" opacity="0.8">When will the new product be available?</text>
+  <text x="288" y="476" font-family="Inter, sans-serif" font-size="12" fill="#6B7280">David L. • 5h ago</text>
+  <rect x="288" y="496" width="60" height="16" rx="8" fill="#F59E0B" opacity="0.1"/>
+  <text x="298" y="508" font-family="Inter, sans-serif" font-size="10" fill="#F59E0B">Product</text>
+  
+  <rect x="428" y="380" width="140" height="140" rx="8" fill="#FFFFFF" stroke="#E5E7EB" stroke-width="1"/>
+  <rect x="428" y="380" width="140" height="8" rx="4" fill="#EF4444"/>
+  <text x="436" y="408" font-family="Inter, sans-serif" font-size="14" font-weight="bold" fill="#1F2937">ESG Report</text>
+  <text x="436" y="428" font-family="Inter, sans-serif" font-size="12" fill="#6B7280" opacity="0.8">When will the ESG report be published?</text>
+  <text x="436" y="476" font-family="Inter, sans-serif" font-size="12" fill="#6B7280">Emma W. • 6h ago</text>
+  <rect x="436" y="496" width="60" height="16" rx="8" fill="#10B981" opacity="0.1"/>
+  <text x="446" y="508" font-family="Inter, sans-serif" font-size="10" fill="#10B981">ESG</text>
+  
+  <rect x="280" y="536" width="140" height="140" rx="8" fill="#FFFFFF" stroke="#E5E7EB" stroke-width="1"/>
+  <rect x="280" y="536" width="140" height="8" rx="4" fill="#EF4444"/>
+  <text x="288" y="564" font-family="Inter, sans-serif" font-size="14" font-weight="bold" fill="#1F2937">AGM Details</text>
+  <text x="288" y="584" font-family="Inter, sans-serif" font-size="12" fill="#6B7280" opacity="0.8">Will the AGM be virtual or in-person?</text>
+  <text x="288" y="632" font-family="Inter, sans-serif" font-size="12" fill="#6B7280">Robert K. • 8h ago</text>
+  <rect x="288" y="652" width="80" height="16" rx="8" fill="#6B7280" opacity="0.1"/>
+  <text x="298" y="664" font-family="Inter, sans-serif" font-size="10" fill="#6B7280">Corporate</text>
+  
+  <!-- Active Column Cards (List Layout) -->
+  <rect x="616" y="224" width="288" height="80" rx="8" fill="#FFFFFF" stroke="#E5E7EB" stroke-width="1"/>
+  <rect x="616" y="224" width="8" height="80" rx="4" fill="#F59E0B"/>
+  <text x="636" y="244" font-family="Inter, sans-serif" font-size="14" font-weight="bold" fill="#1F2937">International Expansion</text>
+  <text x="636" y="264" font-family="Inter, sans-serif" font-size="12" fill="#6B7280" opacity="0.8">Are there plans for expansion into European markets?</text>
+  <text x="636" y="284" font-family="Inter, sans-serif" font-size="12" fill="#6B7280">James H. • 1d ago</text>
+  <rect x="800" y="244" width="60" height="16" rx="8" fill="#6B7280" opacity="0.1"/>
+  <text x="810" y="256" font-family="Inter, sans-serif" font-size="10" fill="#6B7280">Strategy</text>
+  <circle cx="880" cy="244" r="12" fill="#F9FAFB" stroke="#E5E7EB" stroke-width="1"/>
+  <text x="878" y="248" font-family="Inter, sans-serif" font-size="10" font-weight="bold" fill="#1F2937">A</text>
+  
+  <rect x="616" y="320" width="288" height="80" rx="8" fill="#FFFFFF" stroke="#E5E7EB" stroke-width="1"/>
+  <rect x="616" y="320" width="8" height="80" rx="4" fill="#F59E0B"/>
+  <text x="636" y="340" font-family="Inter, sans-serif" font-size="14" font-weight="bold" fill="#1F2937">Supply Chain Issues</text>
+  <text x="636" y="360" font-family="Inter, sans-serif" font-size="12" fill="#6B7280" opacity="0.8">How are you addressing the current supply chain challenges?</text>
+  <text x="636" y="380" font-family="Inter, sans-serif" font-size="12" fill="#6B7280">Patricia M. • 2d ago</text>
+  <rect x="800" y="340" width="60" height="16" rx="8" fill="#F59E0B" opacity="0.1"/>
+  <text x="810" y="352" font-family="Inter, sans-serif" font-size="10" fill="#F59E0B">Operations</text>
+  <circle cx="880" cy="340" r="12" fill="#F9FAFB" stroke="#E5E7EB" stroke-width="1"/>
+  <text x="878" y="344" font-family="Inter, sans-serif" font-size="10" font-weight="bold" fill="#1F2937">J</text>
+  
+  <rect x="616" y="416" width="288" height="80" rx="8" fill="#FFFFFF" stroke="#E5E7EB" stroke-width="1"/>
+  <rect x="616" y="416" width="8" height="80" rx="4" fill="#F59E0B"/>
+  <text x="636" y="436" font-family="Inter, sans-serif" font-size="14" font-weight="bold" fill="#1F2937">R&D Investment</text>
+  <text x="636" y="456" font-family="Inter, sans-serif" font-size="12" fill="#6B7280" opacity="0.8">What percentage of revenue is being invested in R&D?</text>
+  <text x="636" y="476" font-family="Inter, sans-serif" font-size="12" fill="#6B7280">Thomas G. • 3d ago</text>
+  <rect x="800" y="436" width="60" height="16" rx="8" fill="#3B82F6" opacity="0.1"/>
+  <text x="810" y="448" font-family="Inter, sans-serif" font-size="10" fill="#3B82F6">Financial</text>
+  <circle cx="880" cy="436" r="12" fill="#F9FAFB" stroke="#E5E7EB" stroke-width="1"/>
+  <text x="878" y="440" font-family="Inter, sans-serif" font-size="10" font-weight="bold" fill="#1F2937">S</text>
+  
+  <!-- Closed Column Cards (List Layout) -->
+  <rect x="952" y="224" width="288" height="80" rx="8" fill="#FFFFFF" stroke="#E5E7EB" stroke-width="1"/>
+  <rect x="952" y="224" width="8" height="80" rx="4" fill="#10B981"/>
+  <text x="972" y="244" font-family="Inter, sans-serif" font-size="14" font-weight="bold" fill="#1F2937">Dividend Payment Date</text>
+  <text x="972" y="264" font-family="Inter, sans-serif" font-size="12" fill="#6B7280" opacity="0.8">When will the next dividend be paid?</text>
+  <text x="972" y="284" font-family="Inter, sans-serif" font-size="12" fill="#6B7280">Richard B. • 5d ago</text>
+  <rect x="1136" y="244" width="60" height="16" rx="8" fill="#3B82F6" opacity="0.1"/>
+  <text x="1146" y="256" font-family="Inter, sans-serif" font-size="10" fill="#3B82F6">Financial</text>
+  
+  <rect x="952" y="320" width="288" height="80" rx="8" fill="#FFFFFF" stroke="#E5E7EB" stroke-width="1"/>
+  <rect x="952" y="320" width="8" height="80" rx="4" fill="#10B981"/>
+  <text x="972" y="340" font-family="Inter, sans-serif" font-size="14" font-weight="bold" fill="#1F2937">Board Changes</text>
+  <text x="972" y="360" font-family="Inter, sans-serif" font-size="12" fill="#6B7280" opacity="0.8">Are there any planned changes to the board of directors?</text>
+  <text x="972" y="380" font-family="Inter, sans-serif" font-size="12" fill="#6B7280">Jennifer P. • 1w ago</text>
+  <rect x="1136" y="340" width="80" height="16" rx="8" fill="#6B7280" opacity="0.1"/>
+  <text x="1146" y="352" font-family="Inter, sans-serif" font-size="10" fill="#6B7280">Governance</text>
+  
+  <rect x="952" y="416" width="288" height="80" rx="8" fill="#FFFFFF" stroke="#E5E7EB" stroke-width="1"/>
+  <rect x="952" y="416" width="8" height="80" rx="4" fill="#10B981"/>
+  <text x="972" y="436" font-family="Inter, sans-serif" font-size="14" font-weight="bold" fill="#1F2937">Carbon Neutrality</text>
+  <text x="972" y="456" font-family="Inter, sans-serif" font-size="12" fill="#6B7280" opacity="0.8">What is your timeline for achieving carbon neutrality?</text>
+  <text x="972" y="476" font-family="Inter, sans-serif" font-size="12" fill="#6B7280">Lisa C. • 2w ago</text>
+  <rect x="1136" y="436" width="60" height="16" rx="8" fill="#10B981" opacity="0.1"/>
+  <text x="1146" y="448" font-family="Inter, sans-serif" font-size="10" fill="#10B981">ESG</text>
+  
+  <!-- Bulk Actions Bar -->
+  <rect x="264" y="720" width="992" height="48" rx="8" fill="#FFFFFF" stroke="#E5E7EB" stroke-width="1"/>
+  <text x="288" y="750" font-family="Inter, sans-serif" font-size="14" fill="#1F2937">Bulk Actions:</text>
+  
+  <rect x="400" y="728" width="100" height="32" rx="16" fill="#FFFFFF" stroke="#E5E7EB" stroke-width="1"/>
+  <text x="420" y="750" font-family="Inter, sans-serif" font-size="14" fill="#6B7280">Archive</text>
+  
+  <rect x="520" y="728" width="140" height="32" rx="16" fill="#FFFFFF" stroke="#E5E7EB" stroke-width="1"/>
+  <text x="540" y="750" font-family="Inter, sans-serif" font-size="14" fill="#6B7280">Assign Category</text>
+  
+  <rect x="680" y="728" width="160" height="32" rx="16" fill="#FFFFFF" stroke="#E5E7EB" stroke-width="1"/>
+  <text x="700" y="750" font-family="Inter, sans-serif" font-size="14" fill="#6B7280">Assign Team Member</text>
+  
+  <rect x="860" y="728" width="100" height="32" rx="16" fill="#FFFFFF" stroke="#E5E7EB" stroke-width="1"/>
+  <text x="880" y="750" font-family="Inter, sans-serif" font-size="14" fill="#6B7280">Export</text>
+</svg>

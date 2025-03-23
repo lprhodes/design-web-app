@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1200" height="1600" viewBox="0 0 1200 1600" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="1200" height="1600" fill="#F9FAFB"/>
+  
+  <!-- Sidebar Navigation -->
+  <rect x="0" y="0" width="240" height="1600" fill="#FFFFFF" stroke="#E5E7EB" stroke-width="1"/>
+  
+  <!-- Company Logo -->
+  <rect x="20" y="20" width="200" height="60" rx="4" fill="#1E40AF"/>
+  <text x="120" y="55" font-family="Inter, sans-serif" font-size="18" font-weight="bold" fill="#FFFFFF" text-anchor="middle">DIOLOG</text>
+  
+  <!-- Sidebar Menu Items -->
+  <rect x="20" y="120" width="200" height="40" rx="4" fill="#F3F4F6"/>
+  <text x="50" y="145" font-family="Inter, sans-serif" font-size="14" fill="#1F2937">Dashboard</text>
+  
+  <rect x="20" y="170" width="200" height="40" rx="4" fill="#EBF5FF"/>
+  <text x="50" y="195" font-family="Inter, sans-serif" font-size="14" font-weight="bold" fill="#1E40AF">Calendar/Events</text>
+  
+  <rect x="20" y="220" width="200" height="40" rx="4" fill="#F3F4F6"/>
+  <text x="50" y="245" font-family="Inter, sans-serif" font-size="14" fill="#1F2937">Announcements</text>
+  
+  <rect x="20" y="270" width="200" height="40" rx="4" fill="#F3F4F6"/>
+  <text x="50" y="295" font-family="Inter, sans-serif" font-size="14" fill="#1F2937">Questions Board</text>
+  <circle cx="190" y="295" r="10" fill="#EF4444"/>
+  <text x="190" y="299" font-family="Inter, sans-serif" font-size="12" font-weight="bold" fill="#FFFFFF" text-anchor="middle">5</text>
+  
+  <rect x="20" y="320" width="200" height="40" rx="4" fill="#F3F4F6"/>
+  <text x="50" y="345" font-family="Inter, sans-serif" font-size="14" fill="#1F2937">Our FAQs</text>
+  
+  <rect x="20" y="370" width="200" height="40" rx="4" fill="#F3F4F6"/>
+  <text x="50" y="395" font-family="Inter, sans-serif" font-size="14" fill="#1F2937">My Team</text>
+  
+  <rect x="20" y="420" width="200" height="40" rx="4" fill="#F3F4F6"/>
+  <text x="50" y="445" font-family="Inter, sans-serif" font-size="14" fill="#1F2937">Question Registry</text>
+  
+  <!-- Upgrade to Premium CTA -->
+  <rect x="20" y="1500" width="200" height="50" rx="4" fill="#F59E0B"/>
+  <text x="120" y="1530" font-family="Inter, sans-serif" font-size="14" font-weight="bold" fill="#FFFFFF" text-anchor="middle">Upgrade to Premium</text>
+  
+  <!-- Top Header -->
+  <rect x="240" y="0" width="960" height="64" fill="#FFFFFF" stroke="#E5E7EB" stroke-width="1"/>
+  
+  <!-- Company Profile Dropdown -->
+  <rect x="260" y="16" width="180" height="32" rx="16" fill="#F3F4F6"/>
+  <circle cx="276" cy="32" r="12" fill="#1E40AF"/>
+  <text x="292" y="36" font-family="Inter, sans-serif" font-size="14" fill="#1F2937">Acme Corporation</text>
+  <text x="430" y="36" font-family="Inter, sans-serif" font-size="14" fill="#6B7280">▼</text>
+  
+  <!-- Notification Icon -->
+  <circle cx="1100" cy="32" r="16" fill="#F3F4F6"/>
+  <text x="1100" y="37" font-family="Inter, sans-serif" font-size="16" fill="#1F2937" text-anchor="middle">🔔</text>
+  
+  <!-- User Profile Dropdown -->
+  <circle cx="1150" cy="32" r="16" fill="#3B82F6"/>
+  <text x="1150" y="37" font-family="Inter, sans-serif" font-size="14" font-weight="bold" fill="#FFFFFF" text-anchor="middle">JD</text>
+  
+  <!-- Main Content Area -->
+  <rect x="240" y="64" width="960" height="1536" fill="#F9FAFB"/>
+  
+  <!-- Page Header -->
+  <rect x="280" y="104" width="880" height="60" fill="#F9FAFB"/>
+  <text x="280" y="144" font-family="Inter, sans-serif" font-size="24" font-weight="bold" fill="#1F2937">Create Event</text>
+  
+  <!-- Back to Calendar Button -->
+  <rect x="280" y="164" width="160" height="32" rx="16" fill="#F3F4F6"/>
+  <text x="300" y="184" font-family="Inter, sans-serif" font-size="14" fill="#1F2937">← Back to Calendar</text>
+  
+  <!-- Event Form -->
+  <rect x="280" y="216" width="880" height="1300" rx="8" fill="#FFFFFF" stroke="#E5E7EB" stroke-width="1"/>
+  
+  <!-- Title Field -->
+  <text x="320" y="256" font-family="Inter, sans-serif" font-size="16" font-weight="bold" fill="#1F2937">Event Title *</text>
+  <rect x="320" y="276" width="800" height="48" rx="4" fill="#FFFFFF" stroke="#E5E7EB" stroke-width="1"/>
+  <text x="340" y="306" font-family="Inter, sans-serif" font-size="14" fill="#9CA3AF">Enter event title</text>
+  
+  <!-- Location Field -->
+  <text x="320" y="356" font-family="Inter, sans-serif" font-size="16" font-weight="bold" fill="#1F2937">Location (Optional)</text>
+  <rect x="320" y="376" width="800" height="48" rx="4" fill="#FFFFFF" stroke="#E5E7EB" stroke-width="1"/>
+  <text x="340" y="406" font-family="Inter, sans-serif" font-size="14" fill="#9CA3AF">Enter event location (physical address or virtual link)</text>
+  
+  <!-- Date and Time Section -->
+  <text x="320" y="456" font-family="Inter, sans-serif" font-size="16" font-weight="bold" fill="#1F2937">Date and Time</text>
+  
+  <!-- Start Date and Time -->
+  <text x="320" y="496" font-family="Inter, sans-serif" font-size="14" fill="#1F2937">Start Date and Time *</text>
+  
+  <!-- Start Date Picker -->
+  <rect x="320" y="516" width="200" height="48" rx="4" fill="#FFFFFF" stroke="#E5E7EB" stroke-width="1"/>
+  <text x="340" y="546" font-family="Inter, sans-serif" font-size="14" fill="#1F2937">Nov 15, 2023</text>
+  <text x="500" y="546" font-family="Inter, sans-serif" font-size="14" fill="#6B7280">📅</text>
+  
+  <!-- Start Time Picker -->
+  <rect x="540" y="516" width="120" height="48" rx="4" fill="#FFFFFF" stroke="#E5E7EB" stroke-width="1"/>
+  <text x="560" y="546" font-family="Inter, sans-serif" font-size="14" fill="#1F2937">10:00 AM</text>
+  <text x="640" y="546" font-family="Inter, sans-serif" font-size="14" fill="#6B7280">🕙</text>
+  
+  <!-- End Date and Time -->
+  <text x="320" y="596" font-family="Inter, sans-serif" font-size="14" fill="#1F2937">End Date and Time</text>
+  
+  <!-- End Date Picker -->
+  <rect x="320" y="616" width="200" height="48" rx="4" fill="#FFFFFF" stroke="#E5E7EB" stroke-width="1"/>
+  <text x="340" y="646" font-family="Inter, sans-serif" font-size="14" fill="#1F2937">Nov 15, 2023</text>
+  <text x="500" y="646" font-family="Inter, sans-serif" font-size="14" fill="#6B7280">📅</text>
+  
+  <!-- End Time Picker -->
+  <rect x="540" y="616" width="120" height="48" rx="4" fill="#FFFFFF" stroke="#E5E7EB" stroke-width="1"/>
+  <text x="560" y="646" font-family="Inter, sans-serif" font-size="14" fill="#1F2937">11:30 AM</text>
+  <text x="640" y="646" font-family="Inter, sans-serif" font-size="14" fill="#6B7280">🕙</text>
+  
+  <!-- All Day Event Checkbox -->
+  <rect x="320" y="686" width="16" height="16" rx="2" fill="#FFFFFF" stroke="#E5E7EB" stroke-width="1"/>
+  <text x="346" y="700" font-family="Inter, sans-serif" font-size="14" fill="#1F2937">All Day Event</text>
+  
+  <!-- Event Type/Category -->
+  <text x="320" y="746" font-family="Inter, sans-serif" font-size="16" font-weight="bold" fill="#1F2937">Event Type</text>
+  <rect x="320" y="766" width="300" height="48" rx="4" fill="#FFFFFF" stroke="#E5E7EB" stroke-width="1"/>
+  <rect x="320" y="766" width="10" height="48" rx="0" fill="#F59E0B"/>
+  <text x="340" y="796" font-family="Inter, sans-serif" font-size="14" fill="#1F2937">Earnings Call</text>
+  <text x="600" y="796" font-family="Inter, sans-serif" font-size="14" fill="#6B7280">▼</text>
+  
+  <!-- Event Type Dropdown (shown as if open) -->
+  <rect x="320" y="814" width="300" height="200" rx="4" fill="#FFFFFF" stroke="#E5E7EB" stroke-width="1" opacity="0"/>
+  
+  <!-- Description -->
+  <text x="320" y="846" font-family="Inter, sans-serif" font-size="16" font-weight="bold" fill="#1F2937">Description</text>
+  
+  <!-- Editor Toolbar -->
+  <rect x="320" y="866" width="800" height="40" rx="4" fill="#F9FAFB" stroke="#E5E7EB" stroke-width="1"/>
+  
+  <!-- Toolbar Buttons -->
+  <rect x="330" y="874" width="24" height="24" rx="4" fill="#FFFFFF" stroke="#E5E7EB" stroke-width="1"/>
+  <text x="342" y="890" font-family="Inter, sans-serif" font-size="12" font-weight="bold" fill="#1F2937" text-anchor="middle">B</text>
+  
+  <rect x="364" y="874" width="24" height="24" rx="4" fill="#FFFFFF" stroke="#E5E7EB" stroke-width="1"/>
+  <text x="376" y="890" font-family="Inter, sans-serif" font-size="12" font-style="italic" fill="#1F2937" text-anchor="middle">I</text>
+  
+  <rect x="398" y="874" width="24" height="24" rx="4" fill="#FFFFFF" stroke="#E5E7EB" stroke-width="1"/>
+  <text x="410" y="890" font-family="Inter, sans-serif" font-size="12" text-decoration="underline" fill="#1F2937" text-anchor="middle">U</text>
+  
+  <rect x="432" y="874" width="24" height="24" rx="4" fill="#FFFFFF" stroke="#E5E7EB" stroke-width="1"/>
+  <text x="444" y="890" font-family="Inter, sans-serif" font-size="12" fill="#1F2937" text-anchor="middle">•</text>
+  
+  <rect x="466" y="874" width="24" height="24" rx="4" fill="#FFFFFF" stroke="#E5E7EB" stroke-width="1"/>
+  <text x="478" y="890" font-family="Inter, sans-serif" font-size="12" fill="#1F2937" text-anchor="middle">1.</text>
+  
+  <rect x="500" y="874" width="24" height="24" rx="4" fill="#FFFFFF" stroke="#E5E7EB" stroke-width="1"/>
+  <text x="512" y="890" font-family="Inter, sans-serif" font-size="12" fill="#1F2937" text-anchor="middle">🔗</text>
+  
+  <!-- Editor Content Area -->
+  <rect x="320" y="906" width="800" height="200" rx="4" fill="#FFFFFF" stroke="#E5E7EB" stroke-width="1"/>
+  <text x="340" y="936" font-family="Inter, sans-serif" font-size="14" fill="#9CA3AF">Enter event description</text>
+  
+  <!-- Visibility Settings -->
+  <text x="320" y="1136" font-family="Inter, sans-serif" font-size="16" font-weight="bold" fill="#1F2937">Visibility</text>
+  
+  <!-- Radio Buttons for Visibility -->
+  <circle cx="340" cy="1166" r="10" fill="#FFFFFF" stroke="#3B82F6" stroke-width="2"/>
+  <circle cx="340" cy="1166" r="6" fill="#3B82F6"/>
+  <text x="360" y="1170" font-family="Inter, sans-serif" font-size="14" fill="#1F2937">Investors</text>
+  
+  <circle cx="340" cy="1206" r="10" fill="#FFFFFF" stroke="#E5E7EB" stroke-width="2"/>
+  <text x="360" y="1210" font-family="Inter, sans-serif" font-size="14" fill="#1F2937">Admin Team Only</text>
+  
+  <circle cx="340" cy="1246" r="10" fill="#FFFFFF" stroke="#E5E7EB" stroke-width="2"/>
+  <text x="360" y="1250" font-family="Inter, sans-serif" font-size="14" fill="#1F2937">Both</text>
+  
+  <text x="360" y="1280" font-family="Inter, sans-serif" font-size="12" fill="#6B7280">Choose who can see this event. "Investors" will make it visible to all investors in the mobile app.</text>
+  
+  <!-- Attachments -->
+  <text x="320" y="1330" font-family="Inter, sans-serif" font-size="16" font-weight="bold" fill="#1F2937">Attachments</text>
+  
+  <!-- Add Attachments Button -->
+  <rect x="320" y="1350" width="160" height="40" rx="4" fill="#F3F4F6" stroke="#E5E7EB" stroke-width="1"/>
+  <text x="350" y="1375" font-family="Inter, sans-serif" font-size="14" fill="#1F2937">Add Attachments</text>
+  <text x="335" y="1375" font-family="Inter, sans-serif" font-size="14" fill="#1F2937">📎</text>
+  
+  <!-- Attachment Info -->
+  <text x="320" y="1410" font-family="Inter, sans-serif" font-size="12" fill="#6B7280">Maximum file size: 10MB. Allowed file types: PDF, DOC, DOCX, PPT, PPTX, JPG, PNG.</text>
+  
+  <!-- Action Buttons -->
+  <rect x="320" y="1450" width="100" height="40" rx="4" fill="#1E40AF"/>
+  <text x="370" y="1475" font-family="Inter, sans-serif" font-size="14" font-weight="bold" fill="#FFFFFF" text-anchor="middle">Save</text>
+  
+  <rect x="440" y="1450" width="100" height="40" rx="4" fill="#F3F4F6" stroke="#E5E7EB" stroke-width="1"/>
+  <text x="490" y="1475" font-family="Inter, sans-serif" font-size="14" fill="#1F2937" text-anchor="middle">Cancel</text>
+  
+  <!-- Calendar Popup (shown as if open) -->
+  <rect x="320" y="564" width="300" height="300" rx="8" fill="#FFFFFF" stroke="#E5E7EB" stroke-width="1" opacity="0"/>
+</svg>

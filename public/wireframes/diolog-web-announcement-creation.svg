@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1200" height="1600" viewBox="0 0 1200 1600" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="1200" height="1600" fill="#F9FAFB"/>
+  
+  <!-- Sidebar Navigation -->
+  <rect x="0" y="0" width="240" height="1600" fill="#FFFFFF" stroke="#E5E7EB" stroke-width="1"/>
+  
+  <!-- Company Logo -->
+  <rect x="20" y="20" width="200" height="60" rx="4" fill="#1E40AF"/>
+  <text x="120" y="55" font-family="Inter, sans-serif" font-size="18" font-weight="bold" fill="#FFFFFF" text-anchor="middle">DIOLOG</text>
+  
+  <!-- Sidebar Menu Items -->
+  <rect x="20" y="120" width="200" height="40" rx="4" fill="#F3F4F6"/>
+  <text x="50" y="145" font-family="Inter, sans-serif" font-size="14" fill="#1F2937">Dashboard</text>
+  
+  <rect x="20" y="170" width="200" height="40" rx="4" fill="#F3F4F6"/>
+  <text x="50" y="195" font-family="Inter, sans-serif" font-size="14" fill="#1F2937">Calendar/Events</text>
+  
+  <rect x="20" y="220" width="200" height="40" rx="4" fill="#EBF5FF"/>
+  <text x="50" y="245" font-family="Inter, sans-serif" font-size="14" font-weight="bold" fill="#1E40AF">Announcements</text>
+  
+  <rect x="20" y="270" width="200" height="40" rx="4" fill="#F3F4F6"/>
+  <text x="50" y="295" font-family="Inter, sans-serif" font-size="14" fill="#1F2937">Questions Board</text>
+  <circle cx="190" y="295" r="10" fill="#EF4444"/>
+  <text x="190" y="299" font-family="Inter, sans-serif" font-size="12" font-weight="bold" fill="#FFFFFF" text-anchor="middle">5</text>
+  
+  <rect x="20" y="320" width="200" height="40" rx="4" fill="#F3F4F6"/>
+  <text x="50" y="345" font-family="Inter, sans-serif" font-size="14" fill="#1F2937">Our FAQs</text>
+  
+  <rect x="20" y="370" width="200" height="40" rx="4" fill="#F3F4F6"/>
+  <text x="50" y="395" font-family="Inter, sans-serif" font-size="14" fill="#1F2937">My Team</text>
+  
+  <rect x="20" y="420" width="200" height="40" rx="4" fill="#F3F4F6"/>
+  <text x="50" y="445" font-family="Inter, sans-serif" font-size="14" fill="#1F2937">Question Registry</text>
+  
+  <!-- Upgrade to Premium CTA -->
+  <rect x="20" y="1500" width="200" height="50" rx="4" fill="#F59E0B"/>
+  <text x="120" y="1530" font-family="Inter, sans-serif" font-size="14" font-weight="bold" fill="#FFFFFF" text-anchor="middle">Upgrade to Premium</text>
+  
+  <!-- Top Header -->
+  <rect x="240" y="0" width="960" height="64" fill="#FFFFFF" stroke="#E5E7EB" stroke-width="1"/>
+  
+  <!-- Company Profile Dropdown -->
+  <rect x="260" y="16" width="180" height="32" rx="16" fill="#F3F4F6"/>
+  <circle cx="276" cy="32" r="12" fill="#1E40AF"/>
+  <text x="292" y="36" font-family="Inter, sans-serif" font-size="14" fill="#1F2937">Acme Corporation</text>
+  <text x="430" y="36" font-family="Inter, sans-serif" font-size="14" fill="#6B7280">▼</text>
+  
+  <!-- Notification Icon -->
+  <circle cx="1100" cy="32" r="16" fill="#F3F4F6"/>
+  <text x="1100" y="37" font-family="Inter, sans-serif" font-size="16" fill="#1F2937" text-anchor="middle">🔔</text>
+  
+  <!-- User Profile Dropdown -->
+  <circle cx="1150" cy="32" r="16" fill="#3B82F6"/>
+  <text x="1150" y="37" font-family="Inter, sans-serif" font-size="14" font-weight="bold" fill="#FFFFFF" text-anchor="middle">JD</text>
+  
+  <!-- Main Content Area -->
+  <rect x="240" y="64" width="960" height="1536" fill="#F9FAFB"/>
+  
+  <!-- Page Header -->
+  <rect x="280" y="104" width="880" height="60" fill="#F9FAFB"/>
+  <text x="280" y="144" font-family="Inter, sans-serif" font-size="24" font-weight="bold" fill="#1F2937">Create Announcement</text>
+  
+  <!-- Back to Announcements Button -->
+  <rect x="280" y="164" width="180" height="32" rx="16" fill="#F3F4F6"/>
+  <text x="300" y="184" font-family="Inter, sans-serif" font-size="14" fill="#1F2937">← Back to Announcements</text>
+  
+  <!-- Announcement Form -->
+  <rect x="280" y="216" width="880" height="1300" rx="8" fill="#FFFFFF" stroke="#E5E7EB" stroke-width="1"/>
+  
+  <!-- Title Field -->
+  <text x="320" y="256" font-family="Inter, sans-serif" font-size="16" font-weight="bold" fill="#1F2937">Announcement Title *</text>
+  <rect x="320" y="276" width="800" height="48" rx="4" fill="#FFFFFF" stroke="#E5E7EB" stroke-width="1"/>
+  <text x="340" y="306" font-family="Inter, sans-serif" font-size="14" fill="#9CA3AF">Enter announcement title</text>
+  <text x="1100" y="306" font-family="Inter, sans-serif" font-size="12" fill="#6B7280" text-anchor="end">0/100</text>
+  
+  <!-- Rich Text Editor -->
+  <text x="320" y="356" font-family="Inter, sans-serif" font-size="16" font-weight="bold" fill="#1F2937">Announcement Content *</text>
+  
+  <!-- Editor Toolbar -->
+  <rect x="320" y="376" width="800" height="40" rx="4" fill="#F9FAFB" stroke="#E5E7EB" stroke-width="1"/>
+  
+  <!-- Toolbar Buttons -->
+  <rect x="330" y="384" width="80" height="24" rx="4" fill="#FFFFFF" stroke="#E5E7EB" stroke-width="1"/>
+  <text x="370" y="400" font-family="Inter, sans-serif" font-size="12" fill="#1F2937" text-anchor="middle">Paragraph ▼</text>
+  
+  <rect x="420" y="384" width="24" height="24" rx="4" fill="#FFFFFF" stroke="#E5E7EB" stroke-width="1"/>
+  <text x="432" y="400" font-family="Inter, sans-serif" font-size="12" font-weight="bold" fill="#1F2937" text-anchor="middle">B</text>
+  
+  <rect x="454" y="384" width="24" height="24" rx="4" fill="#FFFFFF" stroke="#E5E7EB" stroke-width="1"/>
+  <text x="466" y="400" font-family="Inter, sans-serif" font-size="12" font-style="italic" fill="#1F2937" text-anchor="middle">I</text>
+  
+  <rect x="488" y="384" width="24" height="24" rx="4" fill="#FFFFFF" stroke="#E5E7EB" stroke-width="1"/>
+  <text x="500" y="400" font-family="Inter, sans-serif" font-size="12" text-decoration="underline" fill="#1F2937" text-anchor="middle">U</text>
+  
+  <rect x="522" y="384" width="24" height="24" rx="4" fill="#FFFFFF" stroke="#E5E7EB" stroke-width="1"/>
+  <text x="534" y="400" font-family="Inter, sans-serif" font-size="12" fill="#1F2937" text-anchor="middle">•</text>
+  
+  <rect x="556" y="384" width="24" height="24" rx="4" fill="#FFFFFF" stroke="#E5E7EB" stroke-width="1"/>
+  <text x="568" y="400" font-family="Inter, sans-serif" font-size="12" fill="#1F2937" text-anchor="middle">1.</text>
+  
+  <rect x="590" y="384" width="24" height="24" rx="4" fill="#FFFFFF" stroke="#E5E7EB" stroke-width="1"/>
+  <text x="602" y="400" font-family="Inter, sans-serif" font-size="12" fill="#1F2937" text-anchor="middle">≡</text>
+  
+  <rect x="624" y="384" width="24" height="24" rx="4" fill="#FFFFFF" stroke="#E5E7EB" stroke-width="1"/>
+  <text x="636" y="400" font-family="Inter, sans-serif" font-size="12" fill="#1F2937" text-anchor="middle">≡</text>
+  
+  <rect x="658" y="384" width="24" height="24" rx="4" fill="#FFFFFF" stroke="#E5E7EB" stroke-width="1"/>
+  <text x="670" y="400" font-family="Inter, sans-serif" font-size="12" fill="#1F2937" text-anchor="middle">≡</text>
+  
+  <rect x="692" y="384" width="24" height="24" rx="4" fill="#FFFFFF" stroke="#E5E7EB" stroke-width="1"/>
+  <text x="704" y="400" font-family="Inter, sans-serif" font-size="12" fill="#1F2937" text-anchor="middle">🔗</text>
+  
+  <rect x="726" y="384" width="24" height="24" rx="4" fill="#FFFFFF" stroke="#E5E7EB" stroke-width="1"/>
+  <text x="738" y="400" font-family="Inter, sans-serif" font-size="12" fill="#1F2937" text-anchor="middle">🖼️</text>
+  
+  <rect x="760" y="384" width="24" height="24" rx="4" fill="#FFFFFF" stroke="#E5E7EB" stroke-width="1"/>
+  <text x="772" y="400" font-family="Inter, sans-serif" font-size="12" fill="#1F2937" text-anchor="middle">A</text>
+  
+  <!-- Editor Content Area -->
+  <rect x="320" y="416" width="800" height="300" rx="4" fill="#FFFFFF" stroke="#E5E7EB" stroke-width="1"/>
+  <text x="340" y="446" font-family="Inter, sans-serif" font-size="14" fill="#9CA3AF">Enter announcement content</text>
+  
+  <!-- Publish Options -->
+  <text x="320" y="756" font-family="Inter, sans-serif" font-size="16" font-weight="bold" fill="#1F2937">Publish Options</text>
+  
+  <!-- Radio Buttons for Publish Options -->
+  <circle cx="340" cy="786" r="10" fill="#FFFFFF" stroke="#3B82F6" stroke-width="2"/>
+  <circle cx="340" cy="786" r="6" fill="#3B82F6"/>
+  <text x="360" y="790" font-family="Inter, sans-serif" font-size="14" fill="#1F2937">Publish Now</text>
+  
+  <circle cx="340" cy="826" r="10" fill="#FFFFFF" stroke="#E5E7EB" stroke-width="2"/>
+  <text x="360" y="830" font-family="Inter, sans-serif" font-size="14" fill="#1F2937">Schedule for Later</text>
+  
+  <!-- Date and Time Picker (Hidden by default) -->
+  <rect x="360" y="846" width="760" height="0" fill="#FFFFFF"/>
+  
+  <!-- Visibility Settings -->
+  <text x="320" y="886" font-family="Inter, sans-serif" font-size="16" font-weight="bold" fill="#1F2937">Visibility</text>
+  
+  <!-- Radio Buttons for Visibility -->
+  <circle cx="340" cy="916" r="10" fill="#FFFFFF" stroke="#3B82F6" stroke-width="2"/>
+  <circle cx="340" cy="916" r="6" fill="#3B82F6"/>
+  <text x="360" y="920" font-family="Inter, sans-serif" font-size="14" fill="#1F2937">Investors</text>
+  
+  <circle cx="340" cy="956" r="10" fill="#FFFFFF" stroke="#E5E7EB" stroke-width="2"/>
+  <text x="360" y="960" font-family="Inter, sans-serif" font-size="14" fill="#1F2937">Admin Team Only</text>
+  
+  <circle cx="340" cy="996" r="10" fill="#FFFFFF" stroke="#E5E7EB" stroke-width="2"/>
+  <text x="360" y="1000" font-family="Inter, sans-serif" font-size="14" fill="#1F2937">Both</text>
+  
+  <text x="360" y="1030" font-family="Inter, sans-serif" font-size="12" fill="#6B7280">Choose who can see this announcement. "Investors" will make it visible to all investors in the mobile app.</text>
+  
+  <!-- Attachments -->
+  <text x="320" y="1080" font-family="Inter, sans-serif" font-size="16" font-weight="bold" fill="#1F2937">Attachments</text>
+  
+  <!-- Add Attachments Button -->
+  <rect x="320" y="1100" width="160" height="40" rx="4" fill="#F3F4F6" stroke="#E5E7EB" stroke-width="1"/>
+  <text x="350" y="1125" font-family="Inter, sans-serif" font-size="14" fill="#1F2937">Add Attachments</text>
+  <text x="335" y="1125" font-family="Inter, sans-serif" font-size="14" fill="#1F2937">📎</text>
+  
+  <!-- Attachment Info -->
+  <text x="320" y="1160" font-family="Inter, sans-serif" font-size="12" fill="#6B7280">Maximum file size: 10MB. Allowed file types: PDF, DOC, DOCX, XLS, XLSX, JPG, PNG.</text>
+  
+  <!-- Preview Option -->
+  <rect x="320" y="1200" width="120" height="40" rx="4" fill="#F3F4F6" stroke="#E5E7EB" stroke-width="1"/>
+  <text x="380" y="1225" font-family="Inter, sans-serif" font-size="14" fill="#1F2937" text-anchor="middle">Preview</text>
+  
+  <!-- Action Buttons -->
+  <rect x="320" y="1280" width="140" height="40" rx="4" fill="#F3F4F6" stroke="#E5E7EB" stroke-width="1"/>
+  <text x="390" y="1305" font-family="Inter, sans-serif" font-size="14" fill="#1F2937" text-anchor="middle">Save as Draft</text>
+  
+  <rect x="480" y="1280" width="120" height="40" rx="4" fill="#1E40AF"/>
+  <text x="540" y="1305" font-family="Inter, sans-serif" font-size="14" font-weight="bold" fill="#FFFFFF" text-anchor="middle">Publish</text>
+  
+  <text x="620" y="1305" font-family="Inter, sans-serif" font-size="14" fill="#6B7280">Cancel</text>
+</svg>

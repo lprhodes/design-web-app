@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1280" height="800" viewBox="0 0 1280 800" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="1280" height="800" fill="#F9FAFB"/>
+  
+  <!-- Sidebar Navigation -->
+  <rect x="0" y="0" width="240" height="800" fill="#FFFFFF" stroke="#E5E7EB" stroke-width="1"/>
+  
+  <!-- Sidebar Logo -->
+  <rect x="24" y="24" width="192" height="40" rx="4" fill="#1E40AF" opacity="0.9"/>
+  <text x="70" y="50" font-family="Inter, sans-serif" font-size="20" font-weight="bold" fill="white">DIOLOG</text>
+  
+  <!-- Sidebar Menu Items -->
+  <text x="56" y="112" font-family="Inter, sans-serif" font-size="14" fill="#1F2937">Dashboard</text>
+  <circle cx="32" cy="108" r="8" fill="#6B7280" opacity="0.8"/>
+  
+  <text x="56" y="160" font-family="Inter, sans-serif" font-size="14" fill="#1F2937">Calendar/Events</text>
+  <circle cx="32" cy="156" r="8" fill="#6B7280" opacity="0.8"/>
+  
+  <text x="56" y="208" font-family="Inter, sans-serif" font-size="14" fill="#1F2937">Announcements</text>
+  <circle cx="32" cy="204" r="8" fill="#6B7280" opacity="0.8"/>
+  
+  <rect x="16" y="240" width="208" height="40" rx="4" fill="#3B82F6" opacity="0.1"/>
+  <text x="56" y="264" font-family="Inter, sans-serif" font-size="14" fill="#1E40AF">Questions Board</text>
+  <circle cx="32" cy="260" r="8" fill="#1E40AF" opacity="0.8"/>
+  <circle cx="180" cy="260" r="10" fill="#EF4444"/>
+  <text x="177" y="264" font-family="Inter, sans-serif" font-size="12" font-weight="bold" fill="white">5</text>
+  
+  <text x="56" y="312" font-family="Inter, sans-serif" font-size="14" fill="#1F2937">Our FAQs</text>
+  <circle cx="32" cy="308" r="8" fill="#6B7280" opacity="0.8"/>
+  
+  <text x="56" y="360" font-family="Inter, sans-serif" font-size="14" fill="#1F2937">My Team</text>
+  <circle cx="32" cy="356" r="8" fill="#6B7280" opacity="0.8"/>
+  
+  <text x="56" y="408" font-family="Inter, sans-serif" font-size="14" fill="#1F2937">Question Registry</text>
+  <circle cx="32" cy="404" r="8" fill="#6B7280" opacity="0.8"/>
+  
+  <text x="56" y="456" font-family="Inter, sans-serif" font-size="14" fill="#1F2937">Analytics</text>
+  <circle cx="32" cy="452" r="8" fill="#6B7280" opacity="0.8"/>
+  
+  <text x="56" y="504" font-family="Inter, sans-serif" font-size="14" fill="#1F2937">Settings</text>
+  <circle cx="32" cy="500" r="8" fill="#6B7280" opacity="0.8"/>
+  
+  <text x="56" y="552" font-family="Inter, sans-serif" font-size="14" fill="#1F2937">Give Feedback</text>
+  <circle cx="32" cy="548" r="8" fill="#6B7280" opacity="0.8"/>
+  
+  <text x="56" y="600" font-family="Inter, sans-serif" font-size="14" fill="#1F2937">Contact Us</text>
+  <circle cx="32" cy="596" r="8" fill="#6B7280" opacity="0.8"/>
+  
+  <!-- Upgrade to Premium CTA -->
+  <rect x="24" y="648" width="192" height="48" rx="8" fill="#F59E0B" opacity="0.9"/>
+  <text x="64" y="678" font-family="Inter, sans-serif" font-size="14" font-weight="bold" fill="white">Upgrade to Premium</text>
+  
+  <!-- Top Header -->
+  <rect x="240" y="0" width="1040" height="64" fill="#FFFFFF" stroke="#E5E7EB" stroke-width="1"/>
+  
+  <!-- Company Profile Dropdown -->
+  <rect x="264" y="16" width="200" height="32" rx="16" fill="#F9FAFB" stroke="#E5E7EB" stroke-width="1"/>
+  <circle cx="280" cy="32" r="12" fill="#3B82F6"/>
+  <text x="300" y="36" font-family="Inter, sans-serif" font-size="14" fill="#1F2937">Acme Corporation</text>
+  <path d="M448 32 L456 40 L464 32" stroke="#6B7280" stroke-width="2" fill="none"/>
+  
+  <!-- User Profile & Notifications -->
+  <circle cx="1060" cy="32" r="16" fill="#F9FAFB" stroke="#E5E7EB" stroke-width="1"/>
+  <path d="M1056 32 L1060 36 L1064 32" stroke="#6B7280" stroke-width="2" fill="none"/>
+  
+  <circle cx="1100" cy="32" r="16" fill="#F9FAFB" stroke="#E5E7EB" stroke-width="1"/>
+  <path d="M1100 26 L1100 32 M1096 36 L1104 36" stroke="#6B7280" stroke-width="2"/>
+  
+  <circle cx="1140" cy="32" r="16" fill="#F9FAFB" stroke="#E5E7EB" stroke-width="1"/>
+  <circle cx="1140" cy="32" r="8" fill="#6B7280" opacity="0.2"/>
+  <text x="1138" y="36" font-family="Inter, sans-serif" font-size="12" font-weight="bold" fill="#1F2937">J</text>
+  
+  <!-- Main Content Area -->
+  <rect x="264" y="88" width="992" height="48" rx="8" fill="#FFFFFF" stroke="#E5E7EB" stroke-width="1"/>
+  <text x="288" y="118" font-family="Inter, sans-serif" font-size="18" font-weight="bold" fill="#1F2937">Question Details</text>
+  
+  <!-- Back Button -->
+  <rect x="800" y="96" width="120" height="32" rx="16" fill="#FFFFFF" stroke="#E5E7EB" stroke-width="1"/>
+  <text x="824" y="118" font-family="Inter, sans-serif" font-size="14" fill="#6B7280">← Back to Board</text>
+  
+  <!-- Question Details Section -->
+  <rect x="264" y="160" width="992" height="240" rx="8" fill="#FFFFFF" stroke="#E5E7EB" stroke-width="1"/>
+  
+  <!-- Question Title and Status -->
+  <text x="288" y="190" font-family="Inter, sans-serif" font-size="20" font-weight="bold" fill="#1F2937">Q3 Results</text>
+  
+  <rect x="288" y="208" width="100" height="32" rx="16" fill="#EF4444" opacity="0.1"/>
+  <text x="308" y="230" font-family="Inter, sans-serif" font-size="14" fill="#EF4444">Outstanding</text>
+  
+  <rect x="400" y="208" width="100" height="32" rx="16" fill="#F9FAFB" stroke="#E5E7EB" stroke-width="1"/>
+  <text x="420" y="230" font-family="Inter, sans-serif" font-size="14" fill="#6B7280">Active</text>
+  
+  <rect x="512" y="208" width="100" height="32" rx="16" fill="#F9FAFB" stroke="#E5E7EB" stroke-width="1"/>
+  <text x="532" y="230" font-family="Inter, sans-serif" font-size="14" fill="#6B7280">Closed</text>
+  
+  <!-- Question Text -->
+  <text x="288" y="260" font-family="Inter, sans-serif" font-size="16" fill="#1F2937">When will the Q3 results be published? I'm particularly interested in understanding the impact of the recent market volatility on the company's financial performance. Will there be a conference call to discuss the results?</text>
+  
+  <!-- Question Metadata -->
+  <rect x="288" y="320" width="60" height="24" rx="12" fill="#3B82F6" opacity="0.1"/>
+  <text x="298" y="336" font-family="Inter, sans-serif" font-size="12" fill="#3B82F6">Financial</text>
+  
+  <text x="360" y="336" font-family="Inter, sans-serif" font-size="14" fill="#6B7280">Asked by Sarah Johnson • 2 hours ago</text>
+  
+  <!-- Investor Details Section -->
+  <rect x="800" y="160" width="456" height="240" rx="8" fill="#FFFFFF" stroke="#E5E7EB" stroke-width="1"/>
+  <text x="824" y="190" font-family="Inter, sans-serif" font-size="16" font-weight="bold" fill="#1F2937">Investor Details</text>
+  
+  <circle cx="824" cy="230" r="32" fill="#F9FAFB" stroke="#E5E7EB" stroke-width="1"/>
+  <text x="814" y="236" font-family="Inter, sans-serif" font-size="16" font-weight="bold" fill="#6B7280">SJ</text>
+  
+  <text x="872" y="220" font-family="Inter, sans-serif" font-size="16" font-weight="bold" fill="#1F2937">Sarah Johnson</text>
+  <text x="872" y="240" font-family="Inter, sans-serif" font-size="14" fill="#6B7280">sarah.johnson@example.com</text>
+  
+  <rect x="824" y="280" width="120" height="32" rx="16" fill="#3B82F6" opacity="0.1"/>
+  <text x="844" y="302" font-family="Inter, sans-serif" font-size="14" fill="#3B82F6">Shareholder</text>
+  
+  <text x="824" y="340" font-family="Inter, sans-serif" font-size="14" fill="#6B7280">Questions: 3</text>
+  <text x="824" y="364" font-family="Inter, sans-serif" font-size="14" fill="#6B7280">Joined: June 2023</text>
+  
+  <!-- Assignment and Categorization -->
+  <rect x="264" y="416" width="456" height="160" rx="8" fill="#FFFFFF" stroke="#E5E7EB" stroke-width="1"/>
+  <text x="288" y="446" font-family="Inter, sans-serif" font-size="16" font-weight="bold" fill="#1F2937">Assignment & Categorization</text>
+  
+  <!-- Assign To -->
+  <text x="288" y="480" font-family="Inter, sans-serif" font-size="14" fill="#6B7280">Assign to:</text>
+  <rect x="360" y="464" width="160" height="32" rx="16" fill="#FFFFFF" stroke="#E5E7EB" stroke-width="1"/>
+  <text x="380" y="486" font-family="Inter, sans-serif" font-size="14" fill="#1F2937">Select Team Member</text>
+  <path d="M500 474 L508 482 L516 474" stroke="#6B7280" stroke-width="2" fill="none"/>
+  
+  <!-- Categories -->
+  <text x="288" y="520" font-family="Inter, sans-serif" font-size="14" fill="#6B7280">Categories:</text>
+  <rect x="360" y="504" width="80" height="32" rx="16" fill="#3B82F6" opacity="0.1"/>
+  <text x="370" y="526" font-family="Inter, sans-serif" font-size="14" fill="#3B82F6">Financial</text>
+  
+  <rect x="450" y="504" width="80" height="32" rx="16" fill="#FFFFFF" stroke="#E5E7EB" stroke-width="1"/>
+  <text x="470" y="526" font-family="Inter, sans-serif" font-size="14" fill="#6B7280">+ Add</text>
+  
+  <!-- Question History -->
+  <rect x="736" y="416" width="520" height="160" rx="8" fill="#FFFFFF" stroke="#E5E7EB" stroke-width="1"/>
+  <text x="760" y="446" font-family="Inter, sans-serif" font-size="16" font-weight="bold" fill="#1F2937">Question History</text>
+  
+  <text x="760" y="480" font-family="Inter, sans-serif" font-size="14" fill="#6B7280">2 hours ago • Question received</text>
+  <text x="760" y="510" font-family="Inter, sans-serif" font-size="14" fill="#6B7280">1 hour ago • Categorized as "Financial"</text>
+  <text x="760" y="540" font-family="Inter, sans-serif" font-size="14" fill="#6B7280">Just now • Viewing question details</text>
+  
+  <!-- Response Area -->
+  <rect x="264" y="592" width="992" height="160" rx="8" fill="#FFFFFF" stroke="#E5E7EB" stroke-width="1"/>
+  <text x="288" y="622" font-family="Inter, sans-serif" font-size="16" font-weight="bold" fill="#1F2937">Response</text>
+  
+  <!-- Rich Text Editor -->
+  <rect x="288" y="640" width="944" height="80" rx="4" fill="#FFFFFF" stroke="#E5E7EB" stroke-width="1"/>
+  <text x="304" y="670" font-family="Inter, sans-serif" font-size="14" fill="#6B7280">Type your response here...</text>
+  
+  <!-- Rich Text Editor Toolbar -->
+  <rect x="288" y="640" width="944" height="24" rx="4 4 0 0" fill="#F9FAFB" stroke="#E5E7EB" stroke-width="1"/>
+  <circle cx="304" cy="652" r="4" fill="#6B7280"/>
+  <circle cx="320" cy="652" r="4" fill="#6B7280"/>
+  <circle cx="336" cy="652" r="4" fill="#6B7280"/>
+  <circle cx="352" cy="652" r="4" fill="#6B7280"/>
+  <circle cx="368" cy="652" r="4" fill="#6B7280"/>
+  <circle cx="384" cy="652" r="4" fill="#6B7280"/>
+  <circle cx="400" cy="652" r="4" fill="#6B7280"/>
+  
+  <!-- Response Template Selection -->
+  <rect x="288" y="730" width="240" height="32" rx="16" fill="#FFFFFF" stroke="#E5E7EB" stroke-width="1"/>
+  <text x="308" y="752" font-family="Inter, sans-serif" font-size="14" fill="#6B7280">Use Response Template</text>
+  <path d="M508 742 L516 750 L524 742" stroke="#6B7280" stroke-width="2" fill="none"/>
+  
+  <!-- Action Buttons -->
+  <rect x="736" y="730" width="160" height="32" rx="16" fill="#1E40AF"/>
+  <text x="776" y="752" font-family="Inter, sans-serif" font-size="14" font-weight="bold" fill="white">Send Response</text>
+  
+  <rect x="912" y="730" width="160" height="32" rx="16" fill="#FFFFFF" stroke="#E5E7EB" stroke-width="1"/>
+  <text x="952" y="752" font-family="Inter, sans-serif" font-size="14" fill="#6B7280">Close Question</text>
+  
+  <rect x="1088" y="730" width="144" height="32" rx="16" fill="#FFFFFF" stroke="#E5E7EB" stroke-width="1"/>
+  <text x="1108" y="752" font-family="Inter, sans-serif" font-size="14" fill="#6B7280">Add to Registry</text>
+</svg>

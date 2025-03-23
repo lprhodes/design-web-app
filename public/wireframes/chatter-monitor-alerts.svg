@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="800" height="600" viewBox="0 0 800 600" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="800" height="600" fill="#f8f9fa" />
+  
+  <!-- Header -->
+  <rect x="0" y="0" width="800" height="60" fill="#ffffff" stroke="#e2e8f0" stroke-width="1" />
+  <text x="30" y="35" font-family="Arial" font-size="20" font-weight="bold" fill="#1e293b">Chatter Alerts</text>
+  
+  <!-- Add Alert Button -->
+  <rect x="650" y="10" width="130" height="40" rx="4" fill="#3b82f6" />
+  <text x="715" y="35" font-family="Arial" font-size="14" fill="#ffffff" text-anchor="middle">+ New Alert</text>
+  
+  <!-- Main Content Area -->
+  <rect x="20" y="80" width="760" height="500" fill="#f8f9fa" />
+  
+  <!-- Alert List Header -->
+  <rect x="20" y="80" width="760" height="50" rx="8" fill="#ffffff" stroke="#e2e8f0" stroke-width="1" />
+  <text x="40" y="110" font-family="Arial" font-size="14" font-weight="bold" fill="#1e293b">Your Alerts</text>
+  <text x="200" y="110" font-family="Arial" font-size="14" font-weight="bold" fill="#1e293b">Criteria</text>
+  <text x="450" y="110" font-family="Arial" font-size="14" font-weight="bold" fill="#1e293b">Notification Method</text>
+  <text x="650" y="110" font-family="Arial" font-size="14" font-weight="bold" fill="#1e293b">Actions</text>
+  
+  <!-- Alert Item 1 -->
+  <rect x="20" y="140" width="760" height="80" rx="8" fill="#ffffff" stroke="#e2e8f0" stroke-width="1" />
+  <text x="40" y="170" font-family="Arial" font-size="14" font-weight="bold" fill="#1e293b">Negative Mentions</text>
+  <text x="40" y="190" font-family="Arial" font-size="12" fill="#64748b">Created 2 weeks ago</text>
+  
+  <text x="200" y="170" font-family="Arial" font-size="14" fill="#1e293b">Sentiment: Negative</text>
+  <text x="200" y="190" font-family="Arial" font-size="14" fill="#1e293b">Source: All</text>
+  
+  <!-- Email Badge -->
+  <rect x="450" y="165" width="60" height="25" rx="12.5" fill="#e0f2fe" />
+  <text x="480" y="182" font-family="Arial" font-size="12" fill="#0284c7" text-anchor="middle">Email</text>
+  
+  <!-- In-App Badge -->
+  <rect x="520" y="165" width="70" height="25" rx="12.5" fill="#e0f2fe" />
+  <text x="555" y="182" font-family="Arial" font-size="12" fill="#0284c7" text-anchor="middle">In-App</text>
+  
+  <!-- Action Buttons -->
+  <rect x="650" y="165" width="60" height="30" rx="4" fill="#f1f5f9" stroke="#cbd5e1" stroke-width="1" />
+  <text x="680" y="185" font-family="Arial" font-size="12" fill="#64748b" text-anchor="middle">Edit</text>
+  
+  <rect x="720" y="165" width="40" height="30" rx="4" fill="#f1f5f9" stroke="#cbd5e1" stroke-width="1" />
+  <text x="740" y="185" font-family="Arial" font-size="12" fill="#ef4444" text-anchor="middle">×</text>
+  
+  <!-- Alert Item 2 -->
+  <rect x="20" y="230" width="760" height="80" rx="8" fill="#ffffff" stroke="#e2e8f0" stroke-width="1" />
+  <text x="40" y="260" font-family="Arial" font-size="14" font-weight="bold" fill="#1e293b">Competitor Mentions</text>
+  <text x="40" y="280" font-family="Arial" font-size="12" fill="#64748b">Created 5 days ago</text>
+  
+  <text x="200" y="260" font-family="Arial" font-size="14" fill="#1e293b">Keywords: "CompetitorX"</text>
+  <text x="200" y="280" font-family="Arial" font-size="14" fill="#1e293b">Source: Twitter, LinkedIn</text>
+  
+  <!-- In-App Badge -->
+  <rect x="450" y="255" width="70" height="25" rx="12.5" fill="#e0f2fe" />
+  <text x="485" y="272" font-family="Arial" font-size="12" fill="#0284c7" text-anchor="middle">In-App</text>
+  
+  <!-- Action Buttons -->
+  <rect x="650" y="255" width="60" height="30" rx="4" fill="#f1f5f9" stroke="#cbd5e1" stroke-width="1" />
+  <text x="680" y="275" font-family="Arial" font-size="12" fill="#64748b" text-anchor="middle">Edit</text>
+  
+  <rect x="720" y="255" width="40" height="30" rx="4" fill="#f1f5f9" stroke="#cbd5e1" stroke-width="1" />
+  <text x="740" y="275" font-family="Arial" font-size="12" fill="#ef4444" text-anchor="middle">×</text>
+  
+  <!-- Alert Item 3 -->
+  <rect x="20" y="320" width="760" height="80" rx="8" fill="#ffffff" stroke="#e2e8f0" stroke-width="1" />
+  <text x="40" y="350" font-family="Arial" font-size="14" font-weight="bold" fill="#1e293b">High Engagement</text>
+  <text x="40" y="370" font-family="Arial" font-size="12" fill="#64748b">Created 1 week ago</text>
+  
+  <text x="200" y="350" font-family="Arial" font-size="14" fill="#1e293b">Engagement: > 100 likes</text>
+  <text x="200" y="370" font-family="Arial" font-size="14" fill="#1e293b">Source: All</text>
+  
+  <!-- Email Badge -->
+  <rect x="450" y="345" width="60" height="25" rx="12.5" fill="#e0f2fe" />
+  <text x="480" y="362" font-family="Arial" font-size="12" fill="#0284c7" text-anchor="middle">Email</text>
+  
+  <!-- SMS Badge -->
+  <rect x="520" y="345" width="60" height="25" rx="12.5" fill="#e0f2fe" />
+  <text x="550" y="362" font-family="Arial" font-size="12" fill="#0284c7" text-anchor="middle">SMS</text>
+  
+  <!-- Action Buttons -->
+  <rect x="650" y="345" width="60" height="30" rx="4" fill="#f1f5f9" stroke="#cbd5e1" stroke-width="1" />
+  <text x="680" y="365" font-family="Arial" font-size="12" fill="#64748b" text-anchor="middle">Edit</text>
+  
+  <rect x="720" y="345" width="40" height="30" rx="4" fill="#f1f5f9" stroke="#cbd5e1" stroke-width="1" />
+  <text x="740" y="365" font-family="Arial" font-size="12" fill="#ef4444" text-anchor="middle">×</text>
+  
+  <!-- New Alert Form -->
+  <rect x="20" y="420" width="760" height="160" rx="8" fill="#ffffff" stroke="#3b82f6" stroke-width="2" stroke-dasharray="5,5" />
+  <text x="40" y="450" font-family="Arial" font-size="16" font-weight="bold" fill="#1e293b">Create New Alert</text>
+  
+  <!-- Alert Name Field -->
+  <text x="40" y="480" font-family="Arial" font-size="14" fill="#64748b">Alert Name</text>
+  <rect x="40" y="490" width="200" height="40" rx="4" fill="#ffffff" stroke="#cbd5e1" stroke-width="1" />
+  <text x="50" y="515" font-family="Arial" font-size="14" fill="#94a3b8">Enter alert name...</text>
+  
+  <!-- Alert Criteria Dropdown -->
+  <text x="260" y="480" font-family="Arial" font-size="14" fill="#64748b">Alert Criteria</text>
+  <rect x="260" y="490" width="200" height="40" rx="4" fill="#ffffff" stroke="#cbd5e1" stroke-width="1" />
+  <text x="270" y="515" font-family="Arial" font-size="14" fill="#94a3b8">Select criteria... ▼</text>
+  
+  <!-- Notification Method Checkboxes -->
+  <text x="480" y="480" font-family="Arial" font-size="14" fill="#64748b">Notification Method</text>
+  
+  <!-- Email Checkbox -->
+  <rect x="480" y="500" width="20" height="20" rx="4" fill="#ffffff" stroke="#cbd5e1" stroke-width="1" />
+  <text x="510" y="515" font-family="Arial" font-size="14" fill="#1e293b">Email</text>
+  
+  <!-- In-App Checkbox -->
+  <rect x="560" y="500" width="20" height="20" rx="4" fill="#ffffff" stroke="#cbd5e1" stroke-width="1" />
+  <polyline points="563,510 568,515 577,505" fill="none" stroke="#3b82f6" stroke-width="2" />
+  <text x="590" y="515" font-family="Arial" font-size="14" fill="#1e293b">In-App</text>
+  
+  <!-- SMS Checkbox -->
+  <rect x="640" y="500" width="20" height="20" rx="4" fill="#ffffff" stroke="#cbd5e1" stroke-width="1" />
+  <text x="670" y="515" font-family="Arial" font-size="14" fill="#1e293b">SMS</text>
+  
+  <!-- Save Button -->
+  <rect x="680" y="540" width="80" height="40" rx="4" fill="#3b82f6" />
+  <text x="720" y="565" font-family="Arial" font-size="14" fill="#ffffff" text-anchor="middle">Save</text>
+  
+  <!-- Cancel Button -->
+  <rect x="590" y="540" width="80" height="40" rx="4" fill="#ffffff" stroke="#cbd5e1" stroke-width="1" />
+  <text x="630" y="565" font-family="Arial" font-size="14" fill="#64748b" text-anchor="middle">Cancel</text>
+</svg>

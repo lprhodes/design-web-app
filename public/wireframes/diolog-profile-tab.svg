@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="800" height="1200" viewBox="0 0 800 1200" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="800" height="1200" fill="#F9FAFB" />
+  
+  <!-- Status Bar -->
+  <rect x="0" y="0" width="800" height="40" fill="#1E40AF" />
+  <text x="40" y="25" font-family="Inter, sans-serif" font-size="12" fill="#FFFFFF">9:41 AM</text>
+  <text x="760" y="25" font-family="Inter, sans-serif" font-size="12" fill="#FFFFFF" text-anchor="end">100%</text>
+  
+  <!-- Header -->
+  <rect x="0" y="40" width="800" height="60" fill="#FFFFFF" stroke="#E5E7EB" stroke-width="1" />
+  <text x="40" y="80" font-family="Inter, sans-serif" font-size="24" font-weight="bold" fill="#1F2937">Profile</text>
+  
+  <!-- User Profile Section -->
+  <rect x="0" y="100" width="800" height="200" fill="#FFFFFF" stroke="#E5E7EB" stroke-width="1" />
+  
+  <!-- User Avatar -->
+  <circle cx="120" cy="170" r="60" fill="#3B82F6" />
+  <text x="120" y="185" font-family="Inter, sans-serif" font-size="40" font-weight="bold" fill="#FFFFFF" text-anchor="middle">JD</text>
+  
+  <!-- User Info -->
+  <text x="220" y="150" font-family="Inter, sans-serif" font-size="24" font-weight="bold" fill="#1F2937">John Doe</text>
+  <text x="220" y="180" font-family="Inter, sans-serif" font-size="16" fill="#6B7280">john.doe@example.com</text>
+  
+  <!-- Edit Profile Button -->
+  <rect x="220" y="200" width="120" height="40" rx="20" fill="#EFF6FF" stroke="#3B82F6" stroke-width="1" />
+  <text x="280" y="225" font-family="Inter, sans-serif" font-size="14" fill="#3B82F6" text-anchor="middle">Edit Profile</text>
+  
+  <!-- Investment Interests Section -->
+  <rect x="20" y="320" width="760" height="120" rx="8" fill="#FFFFFF" stroke="#E5E7EB" stroke-width="1" />
+  <text x="40" y="350" font-family="Inter, sans-serif" font-size="18" font-weight="bold" fill="#1F2937">Investment Interests</text>
+  
+  <!-- Interest Tags -->
+  <rect x="40" y="370" width="120" height="30" rx="15" fill="#EFF6FF" stroke="#3B82F6" stroke-width="1" />
+  <text x="100" y="390" font-family="Inter, sans-serif" font-size="14" fill="#3B82F6" text-anchor="middle">Technology</text>
+  
+  <rect x="170" y="370" width="120" height="30" rx="15" fill="#EFF6FF" stroke="#3B82F6" stroke-width="1" />
+  <text x="230" y="390" font-family="Inter, sans-serif" font-size="14" fill="#3B82F6" text-anchor="middle">Healthcare</text>
+  
+  <rect x="300" y="370" width="150" height="30" rx="15" fill="#EFF6FF" stroke="#3B82F6" stroke-width="1" />
+  <text x="375" y="390" font-family="Inter, sans-serif" font-size="14" fill="#3B82F6" text-anchor="middle">Sustainability</text>
+  
+  <rect x="460" y="370" width="100" height="30" rx="15" fill="#EFF6FF" stroke="#3B82F6" stroke-width="1" />
+  <text x="510" y="390" font-family="Inter, sans-serif" font-size="14" fill="#3B82F6" text-anchor="middle">Fintech</text>
+  
+  <!-- Edit Interests Button -->
+  <rect x="660" y="340" width="100" height="30" rx="15" fill="#FFFFFF" stroke="#E5E7EB" stroke-width="1" />
+  <text x="710" y="360" font-family="Inter, sans-serif" font-size="14" fill="#6B7280" text-anchor="middle">Edit</text>
+  
+  <!-- Settings Section -->
+  <text x="20" y="470" font-family="Inter, sans-serif" font-size="18" font-weight="bold" fill="#1F2937">Settings</text>
+  
+  <!-- Account Settings -->
+  <rect x="20" y="490" width="760" height="60" rx="8" fill="#FFFFFF" stroke="#E5E7EB" stroke-width="1" />
+  <text x="60" y="525" font-family="Inter, sans-serif" font-size="16" fill="#1F2937">Account Settings</text>
+  <text x="740" y="525" font-family="Inter, sans-serif" font-size="20" fill="#6B7280" text-anchor="end">›</text>
+  
+  <!-- Notification Preferences -->
+  <rect x="20" y="560" width="760" height="60" rx="8" fill="#FFFFFF" stroke="#E5E7EB" stroke-width="1" />
+  <text x="60" y="595" font-family="Inter, sans-serif" font-size="16" fill="#1F2937">Notification Preferences</text>
+  <text x="740" y="595" font-family="Inter, sans-serif" font-size="20" fill="#6B7280" text-anchor="end">›</text>
+  
+  <!-- Privacy Settings -->
+  <rect x="20" y="630" width="760" height="60" rx="8" fill="#FFFFFF" stroke="#E5E7EB" stroke-width="1" />
+  <text x="60" y="665" font-family="Inter, sans-serif" font-size="16" fill="#1F2937">Privacy Settings</text>
+  <text x="740" y="665" font-family="Inter, sans-serif" font-size="20" fill="#6B7280" text-anchor="end">›</text>
+  
+  <!-- Support Section -->
+  <text x="20" y="720" font-family="Inter, sans-serif" font-size="18" font-weight="bold" fill="#1F2937">Support</text>
+  
+  <!-- Help Center -->
+  <rect x="20" y="740" width="760" height="60" rx="8" fill="#FFFFFF" stroke="#E5E7EB" stroke-width="1" />
+  <text x="60" y="775" font-family="Inter, sans-serif" font-size="16" fill="#1F2937">Help Center</text>
+  <text x="740" y="775" font-family="Inter, sans-serif" font-size="20" fill="#6B7280" text-anchor="end">›</text>
+  
+  <!-- Contact Support -->
+  <rect x="20" y="810" width="760" height="60" rx="8" fill="#FFFFFF" stroke="#E5E7EB" stroke-width="1" />
+  <text x="60" y="845" font-family="Inter, sans-serif" font-size="16" fill="#1F2937">Contact Support</text>
+  <text x="740" y="845" font-family="Inter, sans-serif" font-size="20" fill="#6B7280" text-anchor="end">›</text>
+  
+  <!-- About -->
+  <rect x="20" y="880" width="760" height="60" rx="8" fill="#FFFFFF" stroke="#E5E7EB" stroke-width="1" />
+  <text x="60" y="915" font-family="Inter, sans-serif" font-size="16" fill="#1F2937">About Diolog</text>
+  <text x="740" y="915" font-family="Inter, sans-serif" font-size="20" fill="#6B7280" text-anchor="end">›</text>
+  
+  <!-- Logout Button -->
+  <rect x="20" y="970" width="760" height="60" rx="8" fill="#FEF2F2" stroke="#EF4444" stroke-width="1" />
+  <text x="400" y="1005" font-family="Inter, sans-serif" font-size="16" fill="#EF4444" text-anchor="middle">Logout</text>
+  
+  <!-- App Version -->
+  <text x="400" y="1060" font-family="Inter, sans-serif" font-size="12" fill="#9CA3AF" text-anchor="middle">Version 1.0.0</text>
+  
+  <!-- Navigation Bar -->
+  <rect x="0" y="1120" width="800" height="80" fill="#FFFFFF" stroke="#E5E7EB" stroke-width="1" />
+  
+  <!-- Home Tab -->
+  <circle cx="120" cy="1150" r="30" fill="#FFFFFF" />
+  <rect x="105" y="1140" width="30" height="30" fill="#6B7280" rx="4" />
+  <text x="120" y="1190" font-family="Inter, sans-serif" font-size="12" fill="#6B7280" text-anchor="middle">Home</text>
+  
+  <!-- Companies Tab -->
+  <circle cx="280" cy="1150" r="30" fill="#FFFFFF" />
+  <rect x="265" y="1140" width="30" height="30" fill="#6B7280" rx="4" />
+  <text x="280" y="1190" font-family="Inter, sans-serif" font-size="12" fill="#6B7280" text-anchor="middle">Companies</text>
+  
+  <!-- Notifications Tab -->
+  <circle cx="440" cy="1150" r="30" fill="#FFFFFF" />
+  <circle cx="440" cy="1150" r="15" stroke="#6B7280" stroke-width="2" fill="none" />
+  <text x="440" y="1190" font-family="Inter, sans-serif" font-size="12" fill="#6B7280" text-anchor="middle">Notifications</text>
+  
+  <!-- Profile Tab (Active) -->
+  <circle cx="600" cy="1150" r="30" fill="#EFF6FF" />
+  <circle cx="600" cy="1150" r="15" stroke="#3B82F6" stroke-width="2" fill="none" />
+  <circle cx="600" cy="1145" r="5" stroke="#3B82F6" stroke-width="2" fill="none" />
+  <path d="M585,1160 Q600,1170 615,1160" stroke="#3B82F6" stroke-width="2" fill="none" />
+  <text x="600" y="1190" font-family="Inter, sans-serif" font-size="12" font-weight="bold" fill="#3B82F6" text-anchor="middle">Profile</text>
+</svg>
