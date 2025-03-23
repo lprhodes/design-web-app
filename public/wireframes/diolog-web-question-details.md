@@ -56,17 +56,18 @@ This document describes the Question Details wireframe for the Diolog Web Applic
 
 ## Design Notes
 
-- **Status Visualization**: Clear visual indication of the question's current status with color-coded toggle buttons
-- **Rich Text Editor**: Comprehensive editor for formatting responses professionally
-- **Investor Context**: Dedicated section for investor details to provide context about who is asking the question
+- **Status Visualization**: Clear visual indication of the question's current status with color-coded toggle buttons (red for Outstanding, orange for Active, green for Closed)
+- **Rich Text Editor**: Comprehensive editor for formatting responses professionally with options for bold, italic, underline, alignment, bullets, numbering, and links
+- **Investor Context**: Dedicated section for investor details to provide context about who is asking the question, including their history with the platform
 - **Activity Tracking**: Chronological history of all actions taken on the question for accountability and reference
+- **Responsive Layout**: Clean, organized layout with clear section separation for improved usability
 
 ## Interactions
 
 - Clicking status toggle buttons changes the question's status
 - Team member assignment dropdown allows selecting a team member to handle the question
-- Category tags can be added or removed
-- Response templates can be selected to pre-populate the response area
+- Category tags can be added or removed by clicking the "+Add" button
+- Response templates can be selected from a dropdown to pre-populate the response area
 - Send Response button sends the response to the investor and potentially changes the question status
 - Close Question button marks the question as closed
 - Add to Registry button adds the question and response to the Question Registry for future reference
@@ -77,5 +78,6 @@ This document describes the Question Details wireframe for the Diolog Web Applic
 | Date | Version | Description | Author |
 |------|---------|-------------|--------|
 | 2023-11-01 | 1.0 | Initial wireframe creation | AI-generated based on PRD requirements |
+| 2023-11-15 | 1.1 | Updated wireframe with improved layout and visual hierarchy | AI-generated based on user feedback |
 
 ![Question Details Wireframe](diolog-web-question-details.svg)

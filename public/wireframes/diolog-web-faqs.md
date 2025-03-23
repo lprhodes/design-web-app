@@ -90,5 +90,6 @@ This document describes the Our FAQs wireframe for the Diolog Web Application. T
 | Date | Version | Description | Author |
 |------|---------|-------------|--------|
 | 2023-11-02 | 1.0 | Initial wireframe creation | AI-generated based on PRD requirements |
+| 2023-11-15 | 1.1 | Updated layout and fixed visual elements | AI-generated based on user feedback |
 
 ![Our FAQs Wireframe](diolog-web-faqs.svg)
